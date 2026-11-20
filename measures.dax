@@ -1,0 +1,37 @@
+-- Core measures for the Egypt Retail Sales model
+-- Table name assumed: Sales
+
+Total Sales = SUM ( Sales[NetSales] )
+
+Total Orders = DISTINCTCOUNT ( Sales[OrderID] )
+
+Total Quantity = SUM ( Sales[Quantity] )
+
+Average Order Value = DIVIDE ( [Total Sales], [Total Orders] )
+
+Gross Sales Before Discount =
+SUMX ( Sales, Sales[Quantity] * Sales[UnitPrice] )
+
+Discount Given = [Gross Sales Before Discount] - [Total Sales]
+
+Discount % = DIVIDE ( [Discount Given], [Gross Sales Before Discount] )
+
+-- Time intelligence (needs a marked Date table related on Sales[OrderDate])
+Sales Previous Month =
+CALCULATE ( [Total Sales], PREVIOUSMONTH ( 'Date'[Date] ) )
+
+Sales MoM % =
+DIVIDE ( [Total Sales] - [Sales Previous Month], [Sales Previous Month] )
+
+Sales Running Total =
+CALCULATE (
+    [Total Sales],
+    DATESYTD ( 'Date'[Date] )
+)
+
+-- Ranking helpers
+Sales Top Category =
+CALCULATE (
+    [Total Sales],
+    TOPN ( 1, ALL ( Sales[Category] ), [Total Sales] )
+)
