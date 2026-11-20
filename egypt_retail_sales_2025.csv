@@ -1,0 +1,1201 @@
+OrderID,OrderDate,City,Category,Product,Quantity,UnitPrice,Discount,NetSales,Channel,CustomerSegment
+10000,2025-11-24,Mansoura,Electronics,Wireless Mouse,5,450,0,2250,Online,Small Business
+10001,2025-02-22,Cairo,Grocery,Rice 5kg,7,260,0,1820,Online,Consumer
+10002,2025-04-30,Mansoura,Grocery,Pasta Pack,1,60,0.1,54.0,Wholesale,Small Business
+10003,2025-12-26,Port Said,Grocery,Sugar 2kg,4,95,0.05,361.0,Retail Store,Consumer
+10004,2025-03-23,Mansoura,Beauty,Perfume,5,950,0,4750,Retail Store,Consumer
+10005,2025-02-17,Port Said,Beauty,Shampoo,6,180,0,1080,Retail Store,Consumer
+10006,2025-08-24,Luxor,Grocery,Rice 5kg,7,260,0,1820,Retail Store,Small Business
+10007,2025-11-13,Giza,Fashion,Backpack,4,650,0.15,2210.0,Online,Small Business
+10008,2025-04-27,Ismailia,Fashion,T-Shirt,4,350,0,1400,Retail Store,Corporate
+10009,2025-11-22,Mansoura,Fashion,Jeans,6,800,0,4800,Wholesale,Corporate
+10010,2025-12-26,Mansoura,Electronics,Smart Watch,3,2200,0.1,5940.0,Online,Corporate
+10011,2025-07-14,Zagazig,Fashion,Backpack,4,650,0.15,2210.0,Online,Consumer
+10012,2025-01-17,Mansoura,Fashion,Jacket,5,1800,0,9000,Wholesale,Small Business
+10013,2025-06-11,Assiut,Home & Kitchen,Coffee Maker,7,1800,0.15,10710.0,Online,Corporate
+10014,2025-03-13,Port Said,Home & Kitchen,Vacuum Cleaner,5,3800,0.15,16150.0,Retail Store,Small Business
+10015,2025-07-24,Assiut,Fashion,Jeans,3,800,0.1,2160.0,Online,Consumer
+10016,2025-02-26,Giza,Home & Kitchen,Blender,7,1500,0.1,9450.0,Retail Store,Corporate
+10017,2025-11-02,Cairo,Beauty,Makeup Kit,5,750,0.1,3375.0,Wholesale,Small Business
+10018,2025-02-28,Tanta,Grocery,Tea Box,6,120,0,720,Retail Store,Consumer
+10019,2025-08-21,Giza,Electronics,USB-C Charger,3,350,0.1,945.0,Wholesale,Corporate
+10020,2025-11-24,Zagazig,Grocery,Pasta Pack,4,60,0,240,Online,Small Business
+10021,2025-09-29,Cairo,Electronics,Smart Watch,6,2200,0.05,12540.0,Online,Corporate
+10022,2025-06-07,Giza,Home & Kitchen,Air Fryer,4,3200,0.1,11520.0,Online,Small Business
+10023,2025-09-06,Assiut,Electronics,Smart Watch,3,2200,0,6600,Wholesale,Consumer
+10024,2025-05-16,Luxor,Grocery,Pasta Pack,7,60,0,420,Wholesale,Small Business
+10025,2025-04-13,Luxor,Fashion,Jacket,6,1800,0.05,10260.0,Retail Store,Consumer
+10026,2025-05-07,Port Said,Home & Kitchen,Air Fryer,6,3200,0,19200,Wholesale,Consumer
+10027,2025-10-29,Cairo,Home & Kitchen,Air Fryer,2,3200,0.15,5440.0,Online,Consumer
+10028,2025-01-17,Assiut,Fashion,T-Shirt,4,350,0,1400,Online,Small Business
+10029,2025-03-09,Assiut,Grocery,Pasta Pack,8,60,0,480,Retail Store,Consumer
+10030,2025-02-18,Ismailia,Electronics,Laptop Stand,6,700,0.05,3990.0,Retail Store,Small Business
+10031,2025-01-28,Zagazig,Electronics,Wireless Mouse,7,450,0.15,2677.5,Online,Consumer
+10032,2025-04-09,Ismailia,Home & Kitchen,Vacuum Cleaner,8,3800,0,30400,Online,Corporate
+10033,2025-08-25,Giza,Home & Kitchen,Air Fryer,8,3200,0.1,23040.0,Online,Small Business
+10034,2025-10-04,Ismailia,Electronics,Wireless Mouse,4,450,0,1800,Retail Store,Corporate
+10035,2025-04-20,Cairo,Beauty,Shampoo,3,180,0.05,513.0,Retail Store,Corporate
+10036,2025-08-21,Mansoura,Fashion,Jacket,8,1800,0,14400,Retail Store,Consumer
+10037,2025-01-30,Zagazig,Grocery,Pasta Pack,1,60,0.15,51.0,Online,Consumer
+10038,2025-10-27,Luxor,Beauty,Makeup Kit,3,750,0,2250,Online,Consumer
+10039,2025-02-05,Giza,Grocery,Rice 5kg,4,260,0.05,988.0,Wholesale,Consumer
+10040,2025-10-24,Port Said,Grocery,Rice 5kg,2,260,0.05,494.0,Wholesale,Small Business
+10041,2025-06-11,Tanta,Fashion,Jeans,6,800,0,4800,Retail Store,Consumer
+10042,2025-12-10,Cairo,Fashion,Jacket,6,1800,0,10800,Retail Store,Small Business
+10043,2025-10-16,Tanta,Electronics,Wireless Mouse,4,450,0.1,1620.0,Online,Corporate
+10044,2025-02-05,Assiut,Home & Kitchen,Cookware Set,5,2400,0,12000,Wholesale,Small Business
+10045,2025-06-04,Luxor,Grocery,Pasta Pack,1,60,0.15,51.0,Retail Store,Small Business
+10046,2025-02-23,Luxor,Home & Kitchen,Cookware Set,2,2400,0,4800,Online,Corporate
+10047,2025-05-25,Tanta,Grocery,Olive Oil 1L,6,340,0,2040,Wholesale,Corporate
+10048,2025-05-09,Cairo,Electronics,Wireless Mouse,7,450,0,3150,Online,Corporate
+10049,2025-03-08,Ismailia,Fashion,Jeans,8,800,0.1,5760.0,Wholesale,Consumer
+10050,2025-02-27,Port Said,Electronics,Bluetooth Headphones,1,900,0,900,Wholesale,Consumer
+10051,2025-08-09,Cairo,Home & Kitchen,Air Fryer,5,3200,0,16000,Retail Store,Consumer
+10052,2025-12-16,Ismailia,Home & Kitchen,Air Fryer,6,3200,0.1,17280.0,Wholesale,Small Business
+10053,2025-03-21,Cairo,Home & Kitchen,Blender,3,1500,0.05,4275.0,Online,Small Business
+10054,2025-06-20,Giza,Beauty,Face Cream,5,320,0,1600,Retail Store,Consumer
+10055,2025-08-29,Tanta,Home & Kitchen,Blender,8,1500,0,12000,Online,Consumer
+10056,2025-01-13,Giza,Home & Kitchen,Coffee Maker,6,1800,0,10800,Retail Store,Corporate
+10057,2025-11-25,Giza,Grocery,Sugar 2kg,6,95,0,570,Retail Store,Consumer
+10058,2025-10-25,Ismailia,Fashion,T-Shirt,2,350,0.1,630.0,Retail Store,Small Business
+10059,2025-06-10,Port Said,Beauty,Makeup Kit,2,750,0.05,1425.0,Online,Corporate
+10060,2025-01-23,Ismailia,Beauty,Shampoo,4,180,0,720,Online,Small Business
+10061,2025-06-19,Tanta,Grocery,Tea Box,2,120,0.15,204.0,Wholesale,Corporate
+10062,2025-12-08,Tanta,Beauty,Perfume,7,950,0.15,5652.5,Wholesale,Consumer
+10063,2025-04-09,Port Said,Beauty,Hair Dryer,3,1100,0.1,2970.0,Retail Store,Corporate
+10064,2025-10-08,Ismailia,Electronics,USB-C Charger,5,350,0,1750,Wholesale,Small Business
+10065,2025-12-02,Mansoura,Fashion,Jacket,8,1800,0.05,13680.0,Wholesale,Corporate
+10066,2025-03-28,Mansoura,Electronics,USB-C Charger,6,350,0,2100,Wholesale,Corporate
+10067,2025-04-26,Mansoura,Home & Kitchen,Blender,1,1500,0,1500,Retail Store,Small Business
+10068,2025-02-07,Ismailia,Beauty,Hair Dryer,4,1100,0.15,3740.0,Retail Store,Corporate
+10069,2025-05-05,Mansoura,Home & Kitchen,Air Fryer,2,3200,0.05,6080.0,Online,Small Business
+10070,2025-09-23,Assiut,Beauty,Shampoo,4,180,0,720,Online,Corporate
+10071,2025-12-08,Port Said,Grocery,Pasta Pack,6,60,0.05,342.0,Wholesale,Small Business
+10072,2025-08-07,Assiut,Grocery,Sugar 2kg,3,95,0.15,242.25,Retail Store,Corporate
+10073,2025-05-07,Mansoura,Fashion,Backpack,8,650,0.15,4420.0,Retail Store,Corporate
+10074,2025-02-09,Zagazig,Fashion,Jeans,5,800,0,4000,Wholesale,Consumer
+10075,2025-03-12,Alexandria,Home & Kitchen,Blender,7,1500,0.15,8925.0,Wholesale,Consumer
+10076,2025-02-02,Assiut,Beauty,Hair Dryer,6,1100,0.1,5940.0,Retail Store,Consumer
+10077,2025-04-16,Ismailia,Beauty,Hair Dryer,1,1100,0.1,990.0,Retail Store,Consumer
+10078,2025-06-30,Luxor,Fashion,Jacket,7,1800,0.1,11340.0,Wholesale,Consumer
+10079,2025-09-07,Cairo,Home & Kitchen,Cookware Set,7,2400,0.05,15960.0,Retail Store,Corporate
+10080,2025-12-09,Port Said,Beauty,Face Cream,8,320,0,2560,Wholesale,Consumer
+10081,2025-07-21,Ismailia,Grocery,Pasta Pack,1,60,0,60,Online,Corporate
+10082,2025-04-04,Mansoura,Electronics,USB-C Charger,7,350,0,2450,Retail Store,Corporate
+10083,2025-06-22,Giza,Beauty,Perfume,7,950,0,6650,Retail Store,Consumer
+10084,2025-10-04,Giza,Electronics,USB-C Charger,4,350,0.15,1190.0,Wholesale,Consumer
+10085,2025-01-16,Alexandria,Home & Kitchen,Blender,1,1500,0.1,1350.0,Online,Consumer
+10086,2025-08-31,Tanta,Electronics,Smart Watch,4,2200,0.05,8360.0,Retail Store,Consumer
+10087,2025-11-07,Giza,Grocery,Rice 5kg,3,260,0,780,Wholesale,Consumer
+10088,2025-06-09,Mansoura,Grocery,Sugar 2kg,7,95,0.15,565.25,Online,Small Business
+10089,2025-12-20,Port Said,Home & Kitchen,Air Fryer,5,3200,0.15,13600.0,Online,Small Business
+10090,2025-01-22,Zagazig,Fashion,Backpack,7,650,0.15,3867.5,Online,Small Business
+10091,2025-11-28,Giza,Fashion,T-Shirt,7,350,0.05,2327.5,Retail Store,Corporate
+10092,2025-11-22,Luxor,Beauty,Face Cream,7,320,0,2240,Wholesale,Corporate
+10093,2025-11-12,Port Said,Grocery,Sugar 2kg,8,95,0.05,722.0,Retail Store,Corporate
+10094,2025-05-06,Assiut,Electronics,USB-C Charger,8,350,0,2800,Wholesale,Small Business
+10095,2025-12-09,Zagazig,Beauty,Perfume,1,950,0.05,902.5,Online,Corporate
+10096,2025-04-19,Port Said,Fashion,Sneakers,6,1500,0,9000,Wholesale,Corporate
+10097,2025-10-12,Mansoura,Electronics,Smart Watch,4,2200,0,8800,Wholesale,Corporate
+10098,2025-09-08,Assiut,Grocery,Olive Oil 1L,8,340,0.15,2312.0,Retail Store,Consumer
+10099,2025-02-17,Mansoura,Fashion,Jeans,7,800,0.15,4760.0,Retail Store,Small Business
+10100,2025-10-25,Luxor,Fashion,Jacket,6,1800,0.05,10260.0,Retail Store,Corporate
+10101,2025-12-26,Mansoura,Beauty,Perfume,5,950,0,4750,Online,Small Business
+10102,2025-04-09,Mansoura,Fashion,T-Shirt,3,350,0,1050,Wholesale,Corporate
+10103,2025-05-22,Mansoura,Grocery,Pasta Pack,5,60,0,300,Retail Store,Consumer
+10104,2025-07-04,Luxor,Home & Kitchen,Cookware Set,1,2400,0.15,2040.0,Online,Corporate
+10105,2025-01-24,Alexandria,Electronics,Smart Watch,5,2200,0.15,9350.0,Wholesale,Corporate
+10106,2025-02-22,Assiut,Electronics,Smart Watch,5,2200,0.05,10450.0,Retail Store,Corporate
+10107,2025-04-05,Giza,Electronics,USB-C Charger,8,350,0,2800,Retail Store,Corporate
+10108,2025-02-07,Port Said,Grocery,Rice 5kg,3,260,0,780,Retail Store,Consumer
+10109,2025-05-08,Port Said,Electronics,Smart Watch,7,2200,0.1,13860.0,Wholesale,Consumer
+10110,2025-09-25,Port Said,Beauty,Hair Dryer,8,1100,0,8800,Retail Store,Corporate
+10111,2025-10-19,Mansoura,Grocery,Rice 5kg,2,260,0,520,Retail Store,Small Business
+10112,2025-02-11,Giza,Home & Kitchen,Blender,3,1500,0.1,4050.0,Online,Consumer
+10113,2025-07-29,Cairo,Beauty,Makeup Kit,8,750,0,6000,Online,Corporate
+10114,2025-12-28,Mansoura,Fashion,Jacket,2,1800,0.15,3060.0,Retail Store,Small Business
+10115,2025-10-29,Mansoura,Home & Kitchen,Coffee Maker,2,1800,0.1,3240.0,Wholesale,Consumer
+10116,2025-05-17,Tanta,Home & Kitchen,Air Fryer,1,3200,0,3200,Wholesale,Small Business
+10117,2025-10-19,Tanta,Fashion,Jacket,2,1800,0.05,3420.0,Wholesale,Corporate
+10118,2025-05-20,Giza,Grocery,Pasta Pack,8,60,0.05,456.0,Wholesale,Consumer
+10119,2025-08-10,Giza,Fashion,Backpack,5,650,0,3250,Online,Small Business
+10120,2025-10-22,Cairo,Grocery,Rice 5kg,5,260,0.1,1170.0,Online,Corporate
+10121,2025-09-23,Ismailia,Beauty,Perfume,3,950,0.1,2565.0,Wholesale,Corporate
+10122,2025-02-16,Zagazig,Beauty,Perfume,7,950,0,6650,Wholesale,Consumer
+10123,2025-03-24,Ismailia,Fashion,Jacket,8,1800,0,14400,Wholesale,Consumer
+10124,2025-08-21,Giza,Electronics,USB-C Charger,5,350,0,1750,Retail Store,Small Business
+10125,2025-01-01,Mansoura,Grocery,Sugar 2kg,7,95,0,665,Wholesale,Corporate
+10126,2025-11-15,Tanta,Beauty,Hair Dryer,1,1100,0,1100,Wholesale,Consumer
+10127,2025-05-28,Port Said,Beauty,Hair Dryer,2,1100,0,2200,Online,Small Business
+10128,2025-03-23,Ismailia,Fashion,Backpack,1,650,0.1,585.0,Online,Consumer
+10129,2025-02-28,Tanta,Beauty,Shampoo,3,180,0.05,513.0,Wholesale,Small Business
+10130,2025-05-20,Assiut,Beauty,Hair Dryer,8,1100,0,8800,Wholesale,Consumer
+10131,2025-07-16,Tanta,Home & Kitchen,Vacuum Cleaner,3,3800,0,11400,Retail Store,Corporate
+10132,2025-09-17,Tanta,Fashion,T-Shirt,5,350,0.15,1487.5,Wholesale,Small Business
+10133,2025-12-04,Assiut,Beauty,Face Cream,8,320,0.1,2304.0,Retail Store,Corporate
+10134,2025-10-10,Mansoura,Grocery,Sugar 2kg,8,95,0,760,Wholesale,Consumer
+10135,2025-10-20,Zagazig,Beauty,Face Cream,7,320,0,2240,Wholesale,Corporate
+10136,2025-12-28,Cairo,Beauty,Hair Dryer,3,1100,0.05,3135.0,Online,Small Business
+10137,2025-10-30,Luxor,Fashion,T-Shirt,8,350,0,2800,Retail Store,Consumer
+10138,2025-03-15,Tanta,Beauty,Face Cream,2,320,0.05,608.0,Retail Store,Small Business
+10139,2025-12-21,Luxor,Beauty,Shampoo,6,180,0.15,918.0,Retail Store,Corporate
+10140,2025-11-17,Giza,Beauty,Makeup Kit,1,750,0.1,675.0,Online,Small Business
+10141,2025-12-17,Giza,Fashion,Jeans,2,800,0.05,1520.0,Wholesale,Small Business
+10142,2025-02-21,Cairo,Beauty,Face Cream,5,320,0,1600,Retail Store,Consumer
+10143,2025-05-31,Mansoura,Fashion,Sneakers,7,1500,0,10500,Wholesale,Corporate
+10144,2025-10-17,Port Said,Home & Kitchen,Blender,3,1500,0,4500,Retail Store,Small Business
+10145,2025-12-16,Assiut,Home & Kitchen,Coffee Maker,3,1800,0,5400,Wholesale,Corporate
+10146,2025-08-24,Luxor,Fashion,T-Shirt,8,350,0,2800,Online,Consumer
+10147,2025-08-15,Ismailia,Fashion,Backpack,5,650,0.15,2762.5,Wholesale,Corporate
+10148,2025-08-22,Giza,Fashion,Jeans,7,800,0.05,5320.0,Online,Corporate
+10149,2025-10-20,Tanta,Fashion,Backpack,5,650,0.15,2762.5,Online,Small Business
+10150,2025-07-22,Assiut,Fashion,T-Shirt,1,350,0.1,315.0,Retail Store,Consumer
+10151,2025-11-07,Tanta,Fashion,Jeans,4,800,0.1,2880.0,Wholesale,Small Business
+10152,2025-12-04,Assiut,Home & Kitchen,Air Fryer,1,3200,0,3200,Online,Small Business
+10153,2025-07-06,Ismailia,Home & Kitchen,Air Fryer,5,3200,0,16000,Online,Consumer
+10154,2025-03-09,Tanta,Grocery,Tea Box,5,120,0,600,Retail Store,Corporate
+10155,2025-06-23,Mansoura,Electronics,Laptop Stand,2,700,0,1400,Wholesale,Small Business
+10156,2025-12-12,Ismailia,Beauty,Makeup Kit,6,750,0,4500,Online,Corporate
+10157,2025-10-02,Tanta,Electronics,Laptop Stand,6,700,0.15,3570.0,Wholesale,Corporate
+10158,2025-11-23,Cairo,Fashion,T-Shirt,4,350,0.05,1330.0,Wholesale,Small Business
+10159,2025-06-17,Assiut,Grocery,Olive Oil 1L,2,340,0.15,578.0,Wholesale,Corporate
+10160,2025-11-29,Cairo,Beauty,Shampoo,3,180,0,540,Retail Store,Corporate
+10161,2025-03-01,Assiut,Electronics,Bluetooth Headphones,3,900,0.05,2565.0,Retail Store,Small Business
+10162,2025-12-23,Giza,Grocery,Sugar 2kg,3,95,0.05,270.75,Retail Store,Small Business
+10163,2025-07-28,Assiut,Fashion,T-Shirt,6,350,0,2100,Retail Store,Consumer
+10164,2025-07-05,Ismailia,Electronics,USB-C Charger,6,350,0,2100,Retail Store,Consumer
+10165,2025-03-04,Port Said,Beauty,Shampoo,4,180,0.15,612.0,Online,Consumer
+10166,2025-06-20,Luxor,Home & Kitchen,Blender,4,1500,0,6000,Online,Small Business
+10167,2025-04-21,Cairo,Home & Kitchen,Cookware Set,3,2400,0.1,6480.0,Retail Store,Consumer
+10168,2025-03-08,Cairo,Grocery,Tea Box,3,120,0,360,Online,Consumer
+10169,2025-07-03,Alexandria,Home & Kitchen,Vacuum Cleaner,6,3800,0,22800,Retail Store,Consumer
+10170,2025-03-06,Giza,Beauty,Makeup Kit,2,750,0.15,1275.0,Retail Store,Corporate
+10171,2025-07-05,Luxor,Grocery,Pasta Pack,2,60,0.05,114.0,Online,Small Business
+10172,2025-01-23,Cairo,Grocery,Tea Box,8,120,0.15,816.0,Online,Corporate
+10173,2025-07-25,Assiut,Beauty,Shampoo,8,180,0.15,1224.0,Online,Consumer
+10174,2025-06-14,Tanta,Grocery,Olive Oil 1L,2,340,0,680,Wholesale,Small Business
+10175,2025-10-27,Luxor,Grocery,Tea Box,7,120,0.1,756.0,Retail Store,Corporate
+10176,2025-09-16,Giza,Grocery,Sugar 2kg,2,95,0.15,161.5,Wholesale,Small Business
+10177,2025-10-10,Ismailia,Home & Kitchen,Coffee Maker,8,1800,0,14400,Retail Store,Corporate
+10178,2025-07-24,Zagazig,Beauty,Shampoo,6,180,0.05,1026.0,Wholesale,Corporate
+10179,2025-07-11,Giza,Home & Kitchen,Coffee Maker,2,1800,0,3600,Online,Corporate
+10180,2025-02-19,Luxor,Fashion,Jeans,1,800,0.1,720.0,Wholesale,Corporate
+10181,2025-12-10,Ismailia,Electronics,Laptop Stand,6,700,0.15,3570.0,Wholesale,Consumer
+10182,2025-05-28,Port Said,Grocery,Tea Box,6,120,0,720,Wholesale,Consumer
+10183,2025-03-21,Luxor,Beauty,Face Cream,2,320,0,640,Retail Store,Consumer
+10184,2025-05-23,Port Said,Grocery,Olive Oil 1L,7,340,0.1,2142.0,Wholesale,Small Business
+10185,2025-11-26,Alexandria,Grocery,Rice 5kg,5,260,0,1300,Retail Store,Small Business
+10186,2025-06-08,Alexandria,Fashion,Sneakers,1,1500,0,1500,Wholesale,Small Business
+10187,2025-07-25,Luxor,Electronics,Bluetooth Headphones,1,900,0,900,Online,Corporate
+10188,2025-08-03,Tanta,Beauty,Perfume,3,950,0,2850,Wholesale,Corporate
+10189,2025-10-18,Alexandria,Grocery,Rice 5kg,1,260,0,260,Wholesale,Consumer
+10190,2025-12-12,Ismailia,Electronics,USB-C Charger,8,350,0.15,2380.0,Retail Store,Small Business
+10191,2025-08-15,Giza,Beauty,Perfume,4,950,0.1,3420.0,Retail Store,Corporate
+10192,2025-02-26,Tanta,Fashion,Backpack,8,650,0.1,4680.0,Online,Consumer
+10193,2025-07-22,Tanta,Grocery,Rice 5kg,1,260,0,260,Online,Consumer
+10194,2025-05-11,Assiut,Fashion,Sneakers,2,1500,0,3000,Wholesale,Corporate
+10195,2025-03-31,Luxor,Home & Kitchen,Coffee Maker,4,1800,0.1,6480.0,Wholesale,Corporate
+10196,2025-02-06,Assiut,Beauty,Shampoo,7,180,0,1260,Online,Corporate
+10197,2025-10-22,Ismailia,Beauty,Makeup Kit,7,750,0.15,4462.5,Retail Store,Consumer
+10198,2025-07-27,Assiut,Electronics,USB-C Charger,3,350,0.1,945.0,Wholesale,Corporate
+10199,2025-02-15,Port Said,Beauty,Shampoo,4,180,0.05,684.0,Retail Store,Small Business
+10200,2025-02-10,Zagazig,Beauty,Perfume,6,950,0,5700,Online,Consumer
+10201,2025-09-19,Zagazig,Electronics,Smart Watch,4,2200,0,8800,Wholesale,Small Business
+10202,2025-03-17,Mansoura,Home & Kitchen,Air Fryer,3,3200,0,9600,Online,Small Business
+10203,2025-03-20,Port Said,Electronics,Bluetooth Headphones,8,900,0.05,6840.0,Wholesale,Corporate
+10204,2025-12-15,Zagazig,Grocery,Pasta Pack,6,60,0.15,306.0,Online,Corporate
+10205,2025-02-04,Port Said,Beauty,Hair Dryer,5,1100,0,5500,Online,Corporate
+10206,2025-09-17,Cairo,Electronics,USB-C Charger,8,350,0.05,2660.0,Online,Corporate
+10207,2025-05-27,Port Said,Electronics,Wireless Mouse,7,450,0.05,2992.5,Wholesale,Small Business
+10208,2025-01-22,Port Said,Beauty,Makeup Kit,4,750,0,3000,Retail Store,Small Business
+10209,2025-03-19,Giza,Electronics,Laptop Stand,2,700,0,1400,Wholesale,Small Business
+10210,2025-03-30,Luxor,Electronics,Bluetooth Headphones,8,900,0.05,6840.0,Wholesale,Small Business
+10211,2025-03-23,Ismailia,Fashion,Sneakers,5,1500,0.05,7125.0,Retail Store,Small Business
+10212,2025-11-03,Giza,Electronics,USB-C Charger,2,350,0,700,Wholesale,Small Business
+10213,2025-07-17,Giza,Fashion,Sneakers,3,1500,0,4500,Wholesale,Small Business
+10214,2025-03-14,Port Said,Fashion,Sneakers,7,1500,0,10500,Wholesale,Consumer
+10215,2025-06-08,Luxor,Grocery,Sugar 2kg,6,95,0,570,Online,Small Business
+10216,2025-12-10,Zagazig,Beauty,Makeup Kit,6,750,0,4500,Retail Store,Consumer
+10217,2025-04-20,Alexandria,Fashion,Jacket,4,1800,0,7200,Online,Consumer
+10218,2025-06-01,Zagazig,Electronics,Smart Watch,1,2200,0.15,1870.0,Wholesale,Consumer
+10219,2025-11-02,Port Said,Beauty,Face Cream,3,320,0,960,Online,Small Business
+10220,2025-08-13,Mansoura,Electronics,Laptop Stand,6,700,0.15,3570.0,Retail Store,Small Business
+10221,2025-05-26,Assiut,Beauty,Face Cream,4,320,0,1280,Online,Corporate
+10222,2025-12-14,Ismailia,Grocery,Sugar 2kg,8,95,0,760,Wholesale,Small Business
+10223,2025-08-03,Cairo,Home & Kitchen,Blender,3,1500,0,4500,Wholesale,Corporate
+10224,2025-07-10,Giza,Grocery,Rice 5kg,2,260,0,520,Online,Corporate
+10225,2025-08-19,Mansoura,Grocery,Olive Oil 1L,7,340,0,2380,Retail Store,Corporate
+10226,2025-01-14,Zagazig,Beauty,Shampoo,7,180,0.1,1134.0,Online,Corporate
+10227,2025-02-11,Giza,Fashion,Jeans,1,800,0,800,Wholesale,Small Business
+10228,2025-06-21,Assiut,Home & Kitchen,Blender,1,1500,0,1500,Wholesale,Consumer
+10229,2025-12-28,Cairo,Beauty,Hair Dryer,1,1100,0,1100,Retail Store,Consumer
+10230,2025-03-18,Tanta,Grocery,Pasta Pack,7,60,0,420,Online,Corporate
+10231,2025-03-04,Port Said,Electronics,Bluetooth Headphones,7,900,0.15,5355.0,Retail Store,Consumer
+10232,2025-02-26,Luxor,Beauty,Makeup Kit,1,750,0.15,637.5,Wholesale,Consumer
+10233,2025-03-15,Zagazig,Fashion,Jacket,1,1800,0.1,1620.0,Online,Small Business
+10234,2025-08-02,Luxor,Home & Kitchen,Air Fryer,6,3200,0,19200,Wholesale,Small Business
+10235,2025-09-17,Cairo,Grocery,Rice 5kg,7,260,0.05,1729.0,Wholesale,Corporate
+10236,2025-07-11,Zagazig,Fashion,T-Shirt,6,350,0,2100,Online,Small Business
+10237,2025-12-03,Cairo,Electronics,Smart Watch,6,2200,0,13200,Retail Store,Small Business
+10238,2025-06-23,Alexandria,Home & Kitchen,Coffee Maker,8,1800,0.15,12240.0,Online,Consumer
+10239,2025-08-23,Mansoura,Electronics,USB-C Charger,4,350,0,1400,Online,Corporate
+10240,2025-06-08,Cairo,Grocery,Sugar 2kg,8,95,0,760,Wholesale,Consumer
+10241,2025-05-27,Giza,Fashion,T-Shirt,6,350,0,2100,Retail Store,Corporate
+10242,2025-07-24,Assiut,Beauty,Hair Dryer,6,1100,0,6600,Wholesale,Corporate
+10243,2025-07-08,Ismailia,Grocery,Tea Box,2,120,0.15,204.0,Online,Corporate
+10244,2025-11-05,Giza,Home & Kitchen,Vacuum Cleaner,5,3800,0,19000,Online,Corporate
+10245,2025-12-05,Ismailia,Fashion,Sneakers,8,1500,0.1,10800.0,Online,Small Business
+10246,2025-08-16,Zagazig,Fashion,Jacket,1,1800,0.15,1530.0,Wholesale,Corporate
+10247,2025-05-21,Luxor,Electronics,Wireless Mouse,7,450,0,3150,Wholesale,Small Business
+10248,2025-03-23,Alexandria,Electronics,Bluetooth Headphones,8,900,0,7200,Online,Consumer
+10249,2025-11-27,Cairo,Fashion,Sneakers,7,1500,0.1,9450.0,Wholesale,Consumer
+10250,2025-12-14,Giza,Beauty,Perfume,6,950,0.05,5415.0,Wholesale,Consumer
+10251,2025-09-29,Tanta,Fashion,Jacket,6,1800,0.15,9180.0,Online,Consumer
+10252,2025-01-14,Giza,Home & Kitchen,Coffee Maker,7,1800,0.1,11340.0,Retail Store,Corporate
+10253,2025-12-27,Assiut,Beauty,Face Cream,5,320,0.15,1360.0,Online,Consumer
+10254,2025-03-11,Assiut,Electronics,Laptop Stand,3,700,0.15,1785.0,Online,Small Business
+10255,2025-06-13,Alexandria,Fashion,T-Shirt,5,350,0,1750,Wholesale,Small Business
+10256,2025-12-25,Mansoura,Home & Kitchen,Cookware Set,4,2400,0,9600,Online,Consumer
+10257,2025-09-10,Luxor,Electronics,USB-C Charger,6,350,0.05,1995.0,Online,Small Business
+10258,2025-02-14,Assiut,Electronics,USB-C Charger,7,350,0.15,2082.5,Wholesale,Corporate
+10259,2025-07-29,Giza,Grocery,Rice 5kg,3,260,0,780,Retail Store,Corporate
+10260,2025-12-15,Port Said,Grocery,Tea Box,3,120,0.1,324.0,Online,Consumer
+10261,2025-08-10,Alexandria,Grocery,Rice 5kg,2,260,0.1,468.0,Retail Store,Consumer
+10262,2025-03-24,Tanta,Fashion,Jeans,6,800,0.1,4320.0,Online,Corporate
+10263,2025-04-11,Tanta,Grocery,Tea Box,3,120,0.15,306.0,Wholesale,Small Business
+10264,2025-02-17,Port Said,Grocery,Olive Oil 1L,3,340,0,1020,Wholesale,Small Business
+10265,2025-06-22,Cairo,Grocery,Rice 5kg,1,260,0,260,Wholesale,Small Business
+10266,2025-05-16,Cairo,Home & Kitchen,Vacuum Cleaner,7,3800,0.1,23940.0,Retail Store,Small Business
+10267,2025-10-07,Ismailia,Fashion,Sneakers,8,1500,0,12000,Retail Store,Corporate
+10268,2025-02-07,Assiut,Electronics,Bluetooth Headphones,8,900,0.05,6840.0,Retail Store,Consumer
+10269,2025-06-24,Zagazig,Grocery,Olive Oil 1L,6,340,0.15,1734.0,Wholesale,Corporate
+10270,2025-07-24,Mansoura,Home & Kitchen,Cookware Set,2,2400,0,4800,Retail Store,Consumer
+10271,2025-05-17,Cairo,Beauty,Face Cream,3,320,0,960,Retail Store,Corporate
+10272,2025-11-12,Port Said,Beauty,Face Cream,3,320,0,960,Wholesale,Corporate
+10273,2025-04-08,Tanta,Home & Kitchen,Coffee Maker,8,1800,0.05,13680.0,Retail Store,Consumer
+10274,2025-02-16,Mansoura,Beauty,Makeup Kit,8,750,0,6000,Wholesale,Corporate
+10275,2025-01-25,Assiut,Electronics,USB-C Charger,8,350,0.1,2520.0,Retail Store,Small Business
+10276,2025-01-05,Zagazig,Electronics,Laptop Stand,3,700,0,2100,Retail Store,Corporate
+10277,2025-01-24,Luxor,Beauty,Shampoo,4,180,0,720,Retail Store,Consumer
+10278,2025-07-17,Port Said,Grocery,Sugar 2kg,5,95,0.1,427.5,Online,Consumer
+10279,2025-02-19,Zagazig,Beauty,Perfume,6,950,0.1,5130.0,Online,Consumer
+10280,2025-11-05,Cairo,Grocery,Sugar 2kg,1,95,0,95,Online,Small Business
+10281,2025-06-20,Port Said,Beauty,Makeup Kit,8,750,0,6000,Wholesale,Consumer
+10282,2025-06-17,Port Said,Grocery,Tea Box,3,120,0.05,342.0,Wholesale,Corporate
+10283,2025-10-31,Port Said,Fashion,Backpack,8,650,0.15,4420.0,Retail Store,Corporate
+10284,2025-01-09,Port Said,Fashion,Sneakers,2,1500,0.05,2850.0,Retail Store,Small Business
+10285,2025-12-19,Port Said,Electronics,Smart Watch,8,2200,0,17600,Wholesale,Consumer
+10286,2025-01-27,Port Said,Grocery,Sugar 2kg,3,95,0.1,256.5,Retail Store,Consumer
+10287,2025-12-15,Cairo,Home & Kitchen,Air Fryer,2,3200,0,6400,Retail Store,Corporate
+10288,2025-08-03,Luxor,Home & Kitchen,Coffee Maker,4,1800,0.05,6840.0,Wholesale,Corporate
+10289,2025-02-01,Zagazig,Home & Kitchen,Vacuum Cleaner,4,3800,0.1,13680.0,Wholesale,Corporate
+10290,2025-09-27,Luxor,Beauty,Perfume,3,950,0.05,2707.5,Retail Store,Small Business
+10291,2025-07-01,Mansoura,Fashion,Backpack,8,650,0,5200,Retail Store,Small Business
+10292,2025-06-02,Mansoura,Home & Kitchen,Cookware Set,5,2400,0.15,10200.0,Wholesale,Small Business
+10293,2025-09-08,Tanta,Fashion,Jacket,6,1800,0.1,9720.0,Retail Store,Consumer
+10294,2025-10-21,Alexandria,Grocery,Sugar 2kg,7,95,0,665,Retail Store,Consumer
+10295,2025-05-28,Tanta,Electronics,USB-C Charger,8,350,0.15,2380.0,Wholesale,Corporate
+10296,2025-04-20,Tanta,Home & Kitchen,Vacuum Cleaner,5,3800,0.1,17100.0,Online,Consumer
+10297,2025-11-12,Luxor,Grocery,Olive Oil 1L,4,340,0,1360,Online,Small Business
+10298,2025-04-30,Assiut,Electronics,Wireless Mouse,7,450,0,3150,Online,Small Business
+10299,2025-03-12,Assiut,Electronics,Smart Watch,3,2200,0.05,6270.0,Retail Store,Small Business
+10300,2025-04-13,Cairo,Fashion,Sneakers,5,1500,0.15,6375.0,Online,Small Business
+10301,2025-10-21,Ismailia,Home & Kitchen,Vacuum Cleaner,1,3800,0,3800,Online,Consumer
+10302,2025-07-23,Cairo,Beauty,Face Cream,5,320,0,1600,Retail Store,Small Business
+10303,2025-11-05,Luxor,Electronics,USB-C Charger,5,350,0.05,1662.5,Wholesale,Corporate
+10304,2025-03-10,Giza,Grocery,Sugar 2kg,5,95,0,475,Retail Store,Consumer
+10305,2025-08-23,Zagazig,Fashion,Jeans,1,800,0.15,680.0,Retail Store,Small Business
+10306,2025-12-12,Luxor,Home & Kitchen,Blender,7,1500,0.05,9975.0,Retail Store,Consumer
+10307,2025-07-25,Zagazig,Electronics,Bluetooth Headphones,3,900,0.05,2565.0,Online,Consumer
+10308,2025-05-14,Zagazig,Beauty,Face Cream,8,320,0,2560,Retail Store,Small Business
+10309,2025-10-21,Mansoura,Electronics,USB-C Charger,6,350,0.15,1785.0,Online,Small Business
+10310,2025-03-02,Luxor,Beauty,Perfume,3,950,0.05,2707.5,Wholesale,Corporate
+10311,2025-12-20,Mansoura,Electronics,USB-C Charger,6,350,0.1,1890.0,Online,Consumer
+10312,2025-09-02,Luxor,Home & Kitchen,Coffee Maker,6,1800,0.05,10260.0,Retail Store,Small Business
+10313,2025-12-07,Assiut,Home & Kitchen,Blender,2,1500,0.1,2700.0,Wholesale,Small Business
+10314,2025-07-05,Luxor,Electronics,Smart Watch,2,2200,0,4400,Wholesale,Consumer
+10315,2025-10-21,Luxor,Grocery,Olive Oil 1L,3,340,0,1020,Retail Store,Consumer
+10316,2025-12-15,Luxor,Home & Kitchen,Vacuum Cleaner,8,3800,0,30400,Retail Store,Consumer
+10317,2025-08-21,Port Said,Home & Kitchen,Vacuum Cleaner,7,3800,0.05,25270.0,Online,Small Business
+10318,2025-08-25,Cairo,Fashion,T-Shirt,7,350,0,2450,Wholesale,Consumer
+10319,2025-10-24,Giza,Electronics,Wireless Mouse,7,450,0,3150,Wholesale,Consumer
+10320,2025-02-05,Alexandria,Beauty,Shampoo,5,180,0.05,855.0,Online,Small Business
+10321,2025-11-27,Ismailia,Beauty,Perfume,7,950,0.05,6317.5,Retail Store,Consumer
+10322,2025-12-16,Alexandria,Grocery,Olive Oil 1L,6,340,0,2040,Wholesale,Corporate
+10323,2025-09-28,Tanta,Home & Kitchen,Blender,1,1500,0,1500,Retail Store,Small Business
+10324,2025-10-06,Mansoura,Beauty,Makeup Kit,7,750,0,5250,Retail Store,Corporate
+10325,2025-03-21,Ismailia,Fashion,Jeans,2,800,0,1600,Wholesale,Consumer
+10326,2025-05-04,Cairo,Home & Kitchen,Air Fryer,2,3200,0.1,5760.0,Retail Store,Small Business
+10327,2025-12-11,Assiut,Electronics,Bluetooth Headphones,1,900,0.05,855.0,Online,Small Business
+10328,2025-04-22,Port Said,Electronics,Bluetooth Headphones,5,900,0,4500,Retail Store,Small Business
+10329,2025-11-03,Luxor,Fashion,Jeans,5,800,0,4000,Online,Corporate
+10330,2025-06-03,Ismailia,Fashion,T-Shirt,3,350,0.15,892.5,Wholesale,Corporate
+10331,2025-01-25,Ismailia,Fashion,Jacket,6,1800,0.15,9180.0,Retail Store,Consumer
+10332,2025-06-03,Mansoura,Beauty,Face Cream,8,320,0,2560,Retail Store,Small Business
+10333,2025-03-15,Luxor,Beauty,Shampoo,7,180,0.05,1197.0,Wholesale,Consumer
+10334,2025-07-18,Giza,Home & Kitchen,Cookware Set,4,2400,0,9600,Retail Store,Corporate
+10335,2025-02-17,Ismailia,Grocery,Olive Oil 1L,1,340,0,340,Wholesale,Small Business
+10336,2025-11-05,Luxor,Electronics,Wireless Mouse,4,450,0.1,1620.0,Online,Corporate
+10337,2025-04-17,Mansoura,Fashion,Sneakers,1,1500,0,1500,Wholesale,Consumer
+10338,2025-09-03,Mansoura,Home & Kitchen,Vacuum Cleaner,4,3800,0.05,14440.0,Wholesale,Corporate
+10339,2025-05-25,Tanta,Beauty,Hair Dryer,6,1100,0,6600,Retail Store,Small Business
+10340,2025-09-12,Mansoura,Beauty,Shampoo,8,180,0,1440,Retail Store,Corporate
+10341,2025-07-31,Alexandria,Electronics,Smart Watch,4,2200,0.15,7480.0,Online,Corporate
+10342,2025-10-11,Alexandria,Grocery,Pasta Pack,7,60,0,420,Online,Corporate
+10343,2025-04-28,Luxor,Beauty,Makeup Kit,4,750,0.05,2850.0,Wholesale,Small Business
+10344,2025-06-22,Alexandria,Fashion,Jacket,8,1800,0.05,13680.0,Wholesale,Corporate
+10345,2025-03-28,Luxor,Home & Kitchen,Vacuum Cleaner,8,3800,0,30400,Wholesale,Consumer
+10346,2025-09-26,Ismailia,Electronics,Wireless Mouse,1,450,0,450,Online,Small Business
+10347,2025-04-29,Luxor,Electronics,Bluetooth Headphones,1,900,0,900,Retail Store,Corporate
+10348,2025-01-31,Assiut,Grocery,Pasta Pack,8,60,0.15,408.0,Online,Consumer
+10349,2025-09-30,Luxor,Grocery,Sugar 2kg,1,95,0,95,Wholesale,Corporate
+10350,2025-10-02,Giza,Fashion,T-Shirt,7,350,0,2450,Online,Small Business
+10351,2025-03-18,Tanta,Home & Kitchen,Blender,5,1500,0,7500,Retail Store,Consumer
+10352,2025-07-11,Mansoura,Beauty,Hair Dryer,4,1100,0.15,3740.0,Retail Store,Small Business
+10353,2025-02-11,Ismailia,Electronics,Wireless Mouse,7,450,0.05,2992.5,Wholesale,Corporate
+10354,2025-01-29,Ismailia,Electronics,Bluetooth Headphones,2,900,0.05,1710.0,Wholesale,Corporate
+10355,2025-10-17,Mansoura,Electronics,Smart Watch,1,2200,0,2200,Wholesale,Small Business
+10356,2025-09-01,Tanta,Fashion,T-Shirt,2,350,0.15,595.0,Wholesale,Small Business
+10357,2025-12-03,Mansoura,Electronics,Bluetooth Headphones,6,900,0,5400,Wholesale,Consumer
+10358,2025-12-31,Port Said,Beauty,Shampoo,5,180,0,900,Online,Small Business
+10359,2025-07-19,Alexandria,Grocery,Tea Box,7,120,0.15,714.0,Wholesale,Small Business
+10360,2025-02-10,Ismailia,Grocery,Tea Box,1,120,0,120,Online,Consumer
+10361,2025-06-24,Cairo,Grocery,Pasta Pack,7,60,0,420,Wholesale,Corporate
+10362,2025-08-19,Ismailia,Beauty,Face Cream,6,320,0.1,1728.0,Retail Store,Consumer
+10363,2025-12-15,Tanta,Grocery,Sugar 2kg,2,95,0.1,171.0,Online,Small Business
+10364,2025-02-07,Alexandria,Electronics,USB-C Charger,3,350,0.05,997.5,Wholesale,Corporate
+10365,2025-06-12,Tanta,Fashion,T-Shirt,2,350,0,700,Retail Store,Corporate
+10366,2025-05-19,Ismailia,Electronics,Bluetooth Headphones,2,900,0,1800,Retail Store,Small Business
+10367,2025-10-12,Giza,Grocery,Sugar 2kg,2,95,0,190,Retail Store,Small Business
+10368,2025-02-17,Cairo,Grocery,Pasta Pack,6,60,0.05,342.0,Retail Store,Corporate
+10369,2025-07-18,Luxor,Electronics,Smart Watch,4,2200,0.1,7920.0,Online,Small Business
+10370,2025-07-14,Tanta,Home & Kitchen,Blender,5,1500,0,7500,Retail Store,Consumer
+10371,2025-02-02,Tanta,Home & Kitchen,Coffee Maker,5,1800,0.05,8550.0,Retail Store,Consumer
+10372,2025-07-04,Port Said,Fashion,Jeans,8,800,0.1,5760.0,Online,Corporate
+10373,2025-02-24,Zagazig,Home & Kitchen,Cookware Set,1,2400,0.05,2280.0,Wholesale,Corporate
+10374,2025-06-18,Port Said,Beauty,Perfume,7,950,0.15,5652.5,Online,Corporate
+10375,2025-06-14,Alexandria,Grocery,Olive Oil 1L,8,340,0,2720,Retail Store,Corporate
+10376,2025-05-30,Ismailia,Beauty,Makeup Kit,4,750,0,3000,Retail Store,Corporate
+10377,2025-07-06,Luxor,Electronics,Smart Watch,4,2200,0.1,7920.0,Online,Small Business
+10378,2025-10-09,Tanta,Electronics,Laptop Stand,4,700,0.05,2660.0,Wholesale,Consumer
+10379,2025-07-29,Tanta,Beauty,Face Cream,5,320,0,1600,Wholesale,Consumer
+10380,2025-08-05,Assiut,Beauty,Shampoo,8,180,0.1,1296.0,Wholesale,Corporate
+10381,2025-10-01,Luxor,Grocery,Sugar 2kg,1,95,0,95,Wholesale,Small Business
+10382,2025-02-13,Port Said,Electronics,Bluetooth Headphones,6,900,0,5400,Online,Small Business
+10383,2025-11-27,Cairo,Beauty,Perfume,7,950,0,6650,Online,Corporate
+10384,2025-04-24,Zagazig,Grocery,Pasta Pack,4,60,0.05,228.0,Retail Store,Corporate
+10385,2025-12-14,Cairo,Grocery,Pasta Pack,3,60,0,180,Retail Store,Consumer
+10386,2025-06-01,Alexandria,Beauty,Shampoo,2,180,0.15,306.0,Retail Store,Corporate
+10387,2025-06-25,Assiut,Beauty,Face Cream,8,320,0,2560,Online,Corporate
+10388,2025-12-23,Cairo,Beauty,Perfume,2,950,0,1900,Wholesale,Consumer
+10389,2025-01-12,Mansoura,Fashion,T-Shirt,3,350,0.15,892.5,Wholesale,Consumer
+10390,2025-10-10,Mansoura,Home & Kitchen,Cookware Set,7,2400,0.05,15960.0,Retail Store,Small Business
+10391,2025-04-05,Port Said,Home & Kitchen,Coffee Maker,7,1800,0,12600,Online,Corporate
+10392,2025-10-31,Mansoura,Beauty,Hair Dryer,1,1100,0.15,935.0,Online,Corporate
+10393,2025-12-27,Alexandria,Electronics,Smart Watch,2,2200,0.1,3960.0,Retail Store,Corporate
+10394,2025-04-11,Assiut,Beauty,Shampoo,5,180,0.15,765.0,Wholesale,Small Business
+10395,2025-06-10,Giza,Grocery,Sugar 2kg,7,95,0.1,598.5,Retail Store,Corporate
+10396,2025-08-23,Port Said,Grocery,Olive Oil 1L,5,340,0.1,1530.0,Online,Small Business
+10397,2025-03-10,Giza,Fashion,T-Shirt,4,350,0,1400,Online,Corporate
+10398,2025-12-22,Port Said,Home & Kitchen,Vacuum Cleaner,7,3800,0.05,25270.0,Online,Small Business
+10399,2025-07-16,Luxor,Beauty,Face Cream,8,320,0.15,2176.0,Wholesale,Small Business
+10400,2025-03-30,Alexandria,Grocery,Olive Oil 1L,8,340,0,2720,Online,Corporate
+10401,2025-08-19,Assiut,Grocery,Rice 5kg,6,260,0,1560,Online,Consumer
+10402,2025-07-16,Assiut,Grocery,Pasta Pack,8,60,0.05,456.0,Retail Store,Small Business
+10403,2025-08-16,Cairo,Beauty,Face Cream,2,320,0.1,576.0,Online,Corporate
+10404,2025-01-17,Assiut,Fashion,Jeans,5,800,0,4000,Wholesale,Small Business
+10405,2025-09-11,Giza,Grocery,Pasta Pack,2,60,0.1,108.0,Retail Store,Small Business
+10406,2025-07-07,Mansoura,Grocery,Rice 5kg,8,260,0.1,1872.0,Retail Store,Consumer
+10407,2025-12-01,Tanta,Home & Kitchen,Cookware Set,1,2400,0.05,2280.0,Retail Store,Consumer
+10408,2025-08-13,Port Said,Electronics,Bluetooth Headphones,4,900,0.15,3060.0,Wholesale,Corporate
+10409,2025-12-30,Alexandria,Grocery,Sugar 2kg,3,95,0.1,256.5,Online,Consumer
+10410,2025-01-31,Luxor,Grocery,Tea Box,5,120,0.1,540.0,Online,Corporate
+10411,2025-12-27,Giza,Fashion,Sneakers,5,1500,0.1,6750.0,Online,Corporate
+10412,2025-01-31,Alexandria,Fashion,Jeans,3,800,0,2400,Wholesale,Corporate
+10413,2025-05-07,Tanta,Beauty,Hair Dryer,3,1100,0.1,2970.0,Wholesale,Corporate
+10414,2025-07-12,Luxor,Beauty,Shampoo,2,180,0.05,342.0,Wholesale,Corporate
+10415,2025-12-22,Port Said,Fashion,Jacket,8,1800,0,14400,Online,Small Business
+10416,2025-02-17,Ismailia,Beauty,Perfume,2,950,0.1,1710.0,Online,Corporate
+10417,2025-04-19,Zagazig,Beauty,Perfume,6,950,0,5700,Wholesale,Small Business
+10418,2025-03-08,Cairo,Grocery,Sugar 2kg,6,95,0.15,484.5,Online,Consumer
+10419,2025-11-17,Assiut,Beauty,Shampoo,2,180,0,360,Retail Store,Consumer
+10420,2025-08-08,Tanta,Home & Kitchen,Blender,5,1500,0,7500,Online,Small Business
+10421,2025-07-04,Alexandria,Fashion,T-Shirt,6,350,0.15,1785.0,Online,Corporate
+10422,2025-11-17,Giza,Fashion,Jeans,7,800,0.15,4760.0,Wholesale,Consumer
+10423,2025-01-01,Port Said,Home & Kitchen,Coffee Maker,2,1800,0,3600,Online,Small Business
+10424,2025-12-15,Zagazig,Beauty,Shampoo,1,180,0.15,153.0,Online,Corporate
+10425,2025-12-22,Ismailia,Home & Kitchen,Coffee Maker,2,1800,0,3600,Online,Small Business
+10426,2025-02-22,Alexandria,Electronics,USB-C Charger,6,350,0,2100,Retail Store,Consumer
+10427,2025-11-25,Alexandria,Home & Kitchen,Air Fryer,1,3200,0.1,2880.0,Retail Store,Corporate
+10428,2025-04-20,Giza,Home & Kitchen,Coffee Maker,8,1800,0,14400,Online,Consumer
+10429,2025-03-05,Zagazig,Grocery,Sugar 2kg,6,95,0.05,541.5,Online,Consumer
+10430,2025-05-22,Cairo,Electronics,Bluetooth Headphones,5,900,0.15,3825.0,Wholesale,Corporate
+10431,2025-04-16,Ismailia,Grocery,Pasta Pack,4,60,0.15,204.0,Retail Store,Small Business
+10432,2025-01-28,Mansoura,Home & Kitchen,Coffee Maker,7,1800,0,12600,Retail Store,Small Business
+10433,2025-11-01,Zagazig,Electronics,Smart Watch,1,2200,0,2200,Online,Corporate
+10434,2025-10-19,Giza,Beauty,Perfume,3,950,0.05,2707.5,Online,Small Business
+10435,2025-02-04,Cairo,Electronics,USB-C Charger,4,350,0,1400,Retail Store,Small Business
+10436,2025-05-27,Ismailia,Grocery,Sugar 2kg,7,95,0.15,565.25,Online,Small Business
+10437,2025-10-02,Giza,Grocery,Pasta Pack,3,60,0,180,Retail Store,Consumer
+10438,2025-09-19,Port Said,Home & Kitchen,Blender,6,1500,0.05,8550.0,Wholesale,Small Business
+10439,2025-12-15,Mansoura,Electronics,USB-C Charger,7,350,0.15,2082.5,Online,Consumer
+10440,2025-02-14,Port Said,Beauty,Shampoo,8,180,0.1,1296.0,Online,Corporate
+10441,2025-12-08,Alexandria,Home & Kitchen,Air Fryer,1,3200,0.15,2720.0,Wholesale,Consumer
+10442,2025-03-25,Zagazig,Beauty,Perfume,5,950,0,4750,Online,Small Business
+10443,2025-05-18,Tanta,Electronics,Wireless Mouse,6,450,0.05,2565.0,Wholesale,Consumer
+10444,2025-05-15,Luxor,Grocery,Rice 5kg,8,260,0.05,1976.0,Retail Store,Consumer
+10445,2025-09-13,Tanta,Grocery,Olive Oil 1L,6,340,0,2040,Online,Small Business
+10446,2025-12-12,Cairo,Electronics,Bluetooth Headphones,1,900,0,900,Online,Consumer
+10447,2025-08-30,Cairo,Fashion,Jacket,3,1800,0,5400,Wholesale,Small Business
+10448,2025-12-02,Ismailia,Beauty,Face Cream,6,320,0,1920,Wholesale,Corporate
+10449,2025-05-19,Luxor,Electronics,Smart Watch,6,2200,0,13200,Wholesale,Consumer
+10450,2025-04-02,Giza,Home & Kitchen,Vacuum Cleaner,1,3800,0.05,3610.0,Retail Store,Corporate
+10451,2025-06-09,Zagazig,Fashion,T-Shirt,8,350,0,2800,Online,Corporate
+10452,2025-10-16,Zagazig,Fashion,Backpack,4,650,0.05,2470.0,Wholesale,Corporate
+10453,2025-04-11,Ismailia,Grocery,Olive Oil 1L,3,340,0,1020,Online,Consumer
+10454,2025-10-05,Ismailia,Fashion,T-Shirt,6,350,0,2100,Wholesale,Small Business
+10455,2025-06-07,Assiut,Electronics,Bluetooth Headphones,4,900,0.05,3420.0,Online,Consumer
+10456,2025-12-31,Luxor,Fashion,T-Shirt,1,350,0,350,Retail Store,Small Business
+10457,2025-07-10,Alexandria,Beauty,Shampoo,2,180,0.1,324.0,Wholesale,Corporate
+10458,2025-02-08,Alexandria,Grocery,Pasta Pack,1,60,0.05,57.0,Online,Corporate
+10459,2025-05-14,Assiut,Fashion,Jacket,6,1800,0,10800,Retail Store,Consumer
+10460,2025-02-08,Giza,Home & Kitchen,Blender,2,1500,0,3000,Online,Corporate
+10461,2025-08-27,Zagazig,Fashion,Jacket,2,1800,0.1,3240.0,Online,Corporate
+10462,2025-06-07,Alexandria,Beauty,Perfume,2,950,0,1900,Wholesale,Corporate
+10463,2025-12-27,Alexandria,Grocery,Rice 5kg,4,260,0,1040,Online,Small Business
+10464,2025-05-08,Tanta,Fashion,Jacket,1,1800,0.15,1530.0,Retail Store,Consumer
+10465,2025-01-16,Assiut,Beauty,Hair Dryer,4,1100,0,4400,Online,Consumer
+10466,2025-03-04,Mansoura,Electronics,Wireless Mouse,4,450,0,1800,Retail Store,Corporate
+10467,2025-12-18,Cairo,Electronics,Smart Watch,5,2200,0,11000,Online,Consumer
+10468,2025-11-27,Giza,Beauty,Face Cream,2,320,0,640,Online,Corporate
+10469,2025-01-26,Ismailia,Home & Kitchen,Vacuum Cleaner,7,3800,0.15,22610.0,Retail Store,Consumer
+10470,2025-07-15,Alexandria,Beauty,Face Cream,6,320,0,1920,Retail Store,Corporate
+10471,2025-08-17,Tanta,Home & Kitchen,Air Fryer,4,3200,0.15,10880.0,Retail Store,Corporate
+10472,2025-10-09,Ismailia,Beauty,Shampoo,2,180,0,360,Online,Corporate
+10473,2025-04-13,Zagazig,Grocery,Olive Oil 1L,1,340,0.05,323.0,Retail Store,Small Business
+10474,2025-09-06,Tanta,Fashion,Backpack,6,650,0.05,3705.0,Online,Consumer
+10475,2025-06-13,Cairo,Grocery,Olive Oil 1L,1,340,0,340,Retail Store,Small Business
+10476,2025-07-03,Mansoura,Grocery,Olive Oil 1L,3,340,0,1020,Wholesale,Consumer
+10477,2025-05-17,Ismailia,Grocery,Rice 5kg,4,260,0.1,936.0,Retail Store,Consumer
+10478,2025-04-01,Zagazig,Home & Kitchen,Vacuum Cleaner,6,3800,0.15,19380.0,Wholesale,Consumer
+10479,2025-12-27,Mansoura,Fashion,Backpack,3,650,0.1,1755.0,Retail Store,Small Business
+10480,2025-06-08,Cairo,Home & Kitchen,Coffee Maker,1,1800,0,1800,Online,Small Business
+10481,2025-04-23,Zagazig,Electronics,Smart Watch,8,2200,0,17600,Wholesale,Consumer
+10482,2025-03-08,Cairo,Fashion,Jeans,6,800,0,4800,Online,Small Business
+10483,2025-12-27,Zagazig,Home & Kitchen,Air Fryer,6,3200,0,19200,Wholesale,Small Business
+10484,2025-07-22,Zagazig,Grocery,Rice 5kg,6,260,0,1560,Online,Consumer
+10485,2025-08-12,Luxor,Beauty,Perfume,3,950,0.15,2422.5,Wholesale,Small Business
+10486,2025-07-02,Tanta,Home & Kitchen,Vacuum Cleaner,3,3800,0.05,10830.0,Wholesale,Small Business
+10487,2025-05-31,Port Said,Home & Kitchen,Blender,1,1500,0.15,1275.0,Retail Store,Small Business
+10488,2025-01-17,Mansoura,Home & Kitchen,Vacuum Cleaner,6,3800,0.1,20520.0,Wholesale,Small Business
+10489,2025-02-23,Giza,Beauty,Face Cream,6,320,0.15,1632.0,Online,Corporate
+10490,2025-06-13,Cairo,Home & Kitchen,Air Fryer,6,3200,0.05,18240.0,Retail Store,Consumer
+10491,2025-05-08,Cairo,Electronics,USB-C Charger,5,350,0,1750,Online,Corporate
+10492,2025-08-13,Ismailia,Beauty,Face Cream,7,320,0.05,2128.0,Retail Store,Small Business
+10493,2025-07-12,Assiut,Electronics,Laptop Stand,4,700,0,2800,Online,Consumer
+10494,2025-05-31,Giza,Electronics,USB-C Charger,5,350,0,1750,Retail Store,Consumer
+10495,2025-07-12,Port Said,Home & Kitchen,Air Fryer,2,3200,0,6400,Wholesale,Corporate
+10496,2025-12-27,Ismailia,Electronics,Laptop Stand,3,700,0.1,1890.0,Online,Consumer
+10497,2025-02-21,Luxor,Fashion,Jeans,4,800,0.05,3040.0,Wholesale,Small Business
+10498,2025-10-04,Giza,Fashion,Sneakers,5,1500,0,7500,Online,Corporate
+10499,2025-10-20,Zagazig,Grocery,Sugar 2kg,3,95,0,285,Online,Corporate
+10500,2025-02-14,Giza,Fashion,Backpack,8,650,0,5200,Online,Consumer
+10501,2025-03-29,Tanta,Fashion,T-Shirt,8,350,0,2800,Retail Store,Corporate
+10502,2025-09-08,Zagazig,Fashion,T-Shirt,7,350,0,2450,Retail Store,Corporate
+10503,2025-04-06,Assiut,Beauty,Shampoo,5,180,0.05,855.0,Retail Store,Consumer
+10504,2025-05-18,Giza,Grocery,Rice 5kg,3,260,0.15,663.0,Online,Small Business
+10505,2025-06-26,Cairo,Grocery,Sugar 2kg,4,95,0.1,342.0,Retail Store,Small Business
+10506,2025-08-03,Tanta,Grocery,Sugar 2kg,4,95,0.05,361.0,Online,Corporate
+10507,2025-01-18,Assiut,Grocery,Pasta Pack,3,60,0,180,Online,Consumer
+10508,2025-04-19,Giza,Home & Kitchen,Blender,1,1500,0.05,1425.0,Wholesale,Corporate
+10509,2025-04-14,Giza,Home & Kitchen,Vacuum Cleaner,5,3800,0,19000,Online,Corporate
+10510,2025-10-12,Luxor,Beauty,Makeup Kit,6,750,0,4500,Retail Store,Consumer
+10511,2025-12-25,Ismailia,Grocery,Pasta Pack,7,60,0,420,Online,Consumer
+10512,2025-10-18,Port Said,Grocery,Pasta Pack,2,60,0,120,Online,Corporate
+10513,2025-10-02,Assiut,Fashion,Jacket,5,1800,0.05,8550.0,Wholesale,Small Business
+10514,2025-08-31,Alexandria,Electronics,Bluetooth Headphones,5,900,0.05,4275.0,Wholesale,Small Business
+10515,2025-12-15,Mansoura,Beauty,Shampoo,7,180,0,1260,Online,Small Business
+10516,2025-09-01,Tanta,Fashion,Sneakers,1,1500,0,1500,Retail Store,Corporate
+10517,2025-09-09,Assiut,Electronics,Bluetooth Headphones,3,900,0,2700,Retail Store,Corporate
+10518,2025-08-02,Mansoura,Grocery,Rice 5kg,4,260,0.05,988.0,Retail Store,Small Business
+10519,2025-09-06,Alexandria,Grocery,Tea Box,1,120,0.1,108.0,Online,Corporate
+10520,2025-12-30,Port Said,Grocery,Sugar 2kg,3,95,0.1,256.5,Online,Consumer
+10521,2025-04-09,Assiut,Home & Kitchen,Air Fryer,4,3200,0,12800,Online,Corporate
+10522,2025-12-27,Luxor,Home & Kitchen,Cookware Set,6,2400,0.05,13680.0,Retail Store,Small Business
+10523,2025-03-05,Port Said,Electronics,Bluetooth Headphones,6,900,0.05,5130.0,Retail Store,Consumer
+10524,2025-08-31,Alexandria,Grocery,Pasta Pack,6,60,0,360,Retail Store,Small Business
+10525,2025-12-19,Cairo,Electronics,USB-C Charger,1,350,0.05,332.5,Online,Small Business
+10526,2025-04-20,Ismailia,Home & Kitchen,Blender,4,1500,0,6000,Wholesale,Consumer
+10527,2025-12-16,Alexandria,Electronics,Laptop Stand,3,700,0.15,1785.0,Wholesale,Consumer
+10528,2025-04-25,Tanta,Fashion,Backpack,5,650,0.15,2762.5,Retail Store,Corporate
+10529,2025-06-28,Tanta,Beauty,Perfume,4,950,0.05,3610.0,Wholesale,Small Business
+10530,2025-11-16,Luxor,Beauty,Makeup Kit,2,750,0,1500,Wholesale,Corporate
+10531,2025-10-15,Giza,Grocery,Pasta Pack,5,60,0,300,Retail Store,Consumer
+10532,2025-06-22,Tanta,Fashion,Sneakers,5,1500,0,7500,Online,Consumer
+10533,2025-09-22,Zagazig,Home & Kitchen,Air Fryer,7,3200,0.15,19040.0,Wholesale,Consumer
+10534,2025-01-14,Ismailia,Beauty,Perfume,5,950,0.05,4512.5,Retail Store,Small Business
+10535,2025-01-19,Mansoura,Grocery,Pasta Pack,4,60,0,240,Wholesale,Small Business
+10536,2025-11-23,Luxor,Beauty,Perfume,5,950,0,4750,Online,Corporate
+10537,2025-02-19,Luxor,Beauty,Face Cream,5,320,0.15,1360.0,Online,Small Business
+10538,2025-06-21,Tanta,Electronics,Bluetooth Headphones,6,900,0,5400,Retail Store,Corporate
+10539,2025-07-10,Giza,Fashion,Backpack,5,650,0.05,3087.5,Retail Store,Consumer
+10540,2025-11-21,Mansoura,Grocery,Pasta Pack,2,60,0.05,114.0,Wholesale,Consumer
+10541,2025-12-15,Cairo,Beauty,Makeup Kit,5,750,0.05,3562.5,Online,Consumer
+10542,2025-04-13,Zagazig,Fashion,Jacket,8,1800,0,14400,Wholesale,Consumer
+10543,2025-02-11,Cairo,Beauty,Perfume,3,950,0,2850,Online,Corporate
+10544,2025-05-21,Giza,Home & Kitchen,Blender,3,1500,0.05,4275.0,Online,Small Business
+10545,2025-08-11,Ismailia,Beauty,Hair Dryer,7,1100,0.05,7315.0,Online,Consumer
+10546,2025-10-01,Luxor,Home & Kitchen,Cookware Set,1,2400,0,2400,Online,Consumer
+10547,2025-12-13,Zagazig,Electronics,Bluetooth Headphones,4,900,0.15,3060.0,Retail Store,Consumer
+10548,2025-02-22,Giza,Beauty,Makeup Kit,5,750,0,3750,Online,Corporate
+10549,2025-05-29,Alexandria,Beauty,Makeup Kit,6,750,0.05,4275.0,Retail Store,Corporate
+10550,2025-07-03,Mansoura,Home & Kitchen,Blender,7,1500,0,10500,Online,Small Business
+10551,2025-03-09,Zagazig,Home & Kitchen,Air Fryer,3,3200,0,9600,Wholesale,Small Business
+10552,2025-01-20,Cairo,Beauty,Perfume,1,950,0.1,855.0,Wholesale,Consumer
+10553,2025-12-01,Assiut,Electronics,Wireless Mouse,2,450,0.05,855.0,Retail Store,Consumer
+10554,2025-10-08,Cairo,Fashion,Jacket,3,1800,0,5400,Retail Store,Corporate
+10555,2025-12-05,Port Said,Electronics,Smart Watch,5,2200,0.1,9900.0,Wholesale,Consumer
+10556,2025-08-03,Giza,Electronics,Smart Watch,2,2200,0,4400,Online,Corporate
+10557,2025-04-12,Mansoura,Grocery,Olive Oil 1L,5,340,0.1,1530.0,Retail Store,Small Business
+10558,2025-07-29,Assiut,Fashion,Jeans,1,800,0.1,720.0,Online,Small Business
+10559,2025-09-04,Giza,Fashion,Jeans,1,800,0,800,Online,Small Business
+10560,2025-12-09,Giza,Beauty,Face Cream,2,320,0.1,576.0,Wholesale,Small Business
+10561,2025-02-21,Tanta,Fashion,Jeans,8,800,0,6400,Retail Store,Consumer
+10562,2025-02-21,Zagazig,Home & Kitchen,Air Fryer,5,3200,0,16000,Retail Store,Small Business
+10563,2025-03-01,Alexandria,Electronics,Wireless Mouse,1,450,0,450,Retail Store,Corporate
+10564,2025-08-13,Zagazig,Grocery,Tea Box,2,120,0,240,Online,Consumer
+10565,2025-07-25,Assiut,Beauty,Hair Dryer,5,1100,0.05,5225.0,Retail Store,Small Business
+10566,2025-03-27,Giza,Electronics,Bluetooth Headphones,1,900,0,900,Retail Store,Small Business
+10567,2025-09-05,Ismailia,Grocery,Sugar 2kg,3,95,0.1,256.5,Retail Store,Small Business
+10568,2025-01-15,Ismailia,Home & Kitchen,Coffee Maker,8,1800,0,14400,Retail Store,Consumer
+10569,2025-02-02,Luxor,Fashion,Sneakers,1,1500,0.15,1275.0,Wholesale,Small Business
+10570,2025-10-17,Mansoura,Home & Kitchen,Cookware Set,2,2400,0.05,4560.0,Retail Store,Corporate
+10571,2025-12-06,Alexandria,Beauty,Face Cream,1,320,0,320,Wholesale,Corporate
+10572,2025-09-11,Mansoura,Home & Kitchen,Air Fryer,8,3200,0,25600,Retail Store,Corporate
+10573,2025-01-26,Mansoura,Grocery,Olive Oil 1L,7,340,0.05,2261.0,Online,Corporate
+10574,2025-08-16,Assiut,Grocery,Sugar 2kg,2,95,0.05,180.5,Retail Store,Consumer
+10575,2025-09-12,Cairo,Electronics,Wireless Mouse,7,450,0.05,2992.5,Wholesale,Small Business
+10576,2025-01-01,Luxor,Electronics,Smart Watch,5,2200,0.1,9900.0,Online,Small Business
+10577,2025-12-10,Mansoura,Beauty,Perfume,6,950,0,5700,Retail Store,Corporate
+10578,2025-10-14,Zagazig,Grocery,Pasta Pack,8,60,0.15,408.0,Wholesale,Corporate
+10579,2025-02-28,Zagazig,Electronics,Bluetooth Headphones,1,900,0,900,Wholesale,Corporate
+10580,2025-10-08,Alexandria,Grocery,Tea Box,2,120,0,240,Retail Store,Consumer
+10581,2025-07-29,Giza,Electronics,USB-C Charger,4,350,0,1400,Retail Store,Consumer
+10582,2025-08-23,Cairo,Home & Kitchen,Cookware Set,2,2400,0.05,4560.0,Wholesale,Small Business
+10583,2025-10-29,Port Said,Electronics,Laptop Stand,8,700,0.15,4760.0,Wholesale,Consumer
+10584,2025-09-13,Ismailia,Electronics,Smart Watch,1,2200,0.1,1980.0,Wholesale,Corporate
+10585,2025-09-18,Alexandria,Home & Kitchen,Vacuum Cleaner,3,3800,0.15,9690.0,Online,Corporate
+10586,2025-12-03,Ismailia,Grocery,Pasta Pack,6,60,0.1,324.0,Retail Store,Small Business
+10587,2025-12-21,Tanta,Home & Kitchen,Cookware Set,7,2400,0,16800,Retail Store,Consumer
+10588,2025-03-12,Luxor,Beauty,Makeup Kit,5,750,0.15,3187.5,Retail Store,Small Business
+10589,2025-10-11,Tanta,Home & Kitchen,Blender,4,1500,0.1,5400.0,Wholesale,Corporate
+10590,2025-12-11,Giza,Home & Kitchen,Blender,6,1500,0.15,7650.0,Retail Store,Small Business
+10591,2025-09-03,Luxor,Grocery,Pasta Pack,7,60,0.15,357.0,Retail Store,Corporate
+10592,2025-01-07,Alexandria,Grocery,Rice 5kg,1,260,0.05,247.0,Online,Small Business
+10593,2025-01-29,Tanta,Home & Kitchen,Cookware Set,3,2400,0,7200,Online,Consumer
+10594,2025-12-20,Assiut,Fashion,Jeans,1,800,0,800,Online,Small Business
+10595,2025-12-12,Luxor,Grocery,Olive Oil 1L,7,340,0,2380,Wholesale,Corporate
+10596,2025-12-21,Zagazig,Electronics,Laptop Stand,7,700,0.05,4655.0,Wholesale,Consumer
+10597,2025-01-07,Zagazig,Fashion,Jeans,8,800,0,6400,Wholesale,Small Business
+10598,2025-11-05,Alexandria,Home & Kitchen,Blender,5,1500,0.05,7125.0,Wholesale,Consumer
+10599,2025-04-06,Cairo,Home & Kitchen,Vacuum Cleaner,2,3800,0.05,7220.0,Retail Store,Corporate
+10600,2025-10-12,Tanta,Fashion,Jeans,3,800,0.1,2160.0,Online,Corporate
+10601,2025-08-27,Port Said,Home & Kitchen,Air Fryer,3,3200,0,9600,Online,Small Business
+10602,2025-11-12,Zagazig,Fashion,Jacket,6,1800,0,10800,Wholesale,Consumer
+10603,2025-04-05,Luxor,Grocery,Rice 5kg,3,260,0.05,741.0,Wholesale,Corporate
+10604,2025-02-17,Zagazig,Fashion,Jeans,4,800,0.15,2720.0,Retail Store,Corporate
+10605,2025-05-31,Cairo,Home & Kitchen,Vacuum Cleaner,8,3800,0.1,27360.0,Online,Small Business
+10606,2025-06-27,Zagazig,Beauty,Face Cream,4,320,0,1280,Retail Store,Consumer
+10607,2025-07-17,Luxor,Fashion,Backpack,5,650,0,3250,Retail Store,Small Business
+10608,2025-09-18,Mansoura,Beauty,Hair Dryer,1,1100,0,1100,Retail Store,Small Business
+10609,2025-02-12,Giza,Electronics,Bluetooth Headphones,1,900,0.15,765.0,Online,Small Business
+10610,2025-11-19,Luxor,Home & Kitchen,Coffee Maker,2,1800,0,3600,Wholesale,Small Business
+10611,2025-08-11,Zagazig,Electronics,Bluetooth Headphones,1,900,0.05,855.0,Online,Consumer
+10612,2025-02-07,Giza,Electronics,Bluetooth Headphones,5,900,0.1,4050.0,Wholesale,Consumer
+10613,2025-05-13,Ismailia,Beauty,Hair Dryer,8,1100,0.15,7480.0,Retail Store,Corporate
+10614,2025-01-09,Port Said,Beauty,Shampoo,1,180,0.15,153.0,Online,Small Business
+10615,2025-10-27,Giza,Electronics,Wireless Mouse,6,450,0.1,2430.0,Retail Store,Small Business
+10616,2025-06-04,Ismailia,Grocery,Rice 5kg,5,260,0.05,1235.0,Retail Store,Small Business
+10617,2025-01-16,Ismailia,Beauty,Face Cream,4,320,0,1280,Wholesale,Corporate
+10618,2025-11-21,Luxor,Home & Kitchen,Cookware Set,6,2400,0,14400,Wholesale,Consumer
+10619,2025-03-05,Luxor,Electronics,Wireless Mouse,7,450,0.1,2835.0,Online,Corporate
+10620,2025-04-18,Luxor,Fashion,Jeans,7,800,0.15,4760.0,Online,Consumer
+10621,2025-04-05,Giza,Home & Kitchen,Vacuum Cleaner,5,3800,0,19000,Online,Small Business
+10622,2025-10-18,Luxor,Electronics,Smart Watch,8,2200,0.15,14960.0,Online,Corporate
+10623,2025-12-10,Port Said,Electronics,USB-C Charger,2,350,0,700,Retail Store,Corporate
+10624,2025-07-02,Port Said,Home & Kitchen,Blender,2,1500,0,3000,Online,Consumer
+10625,2025-06-12,Tanta,Beauty,Hair Dryer,6,1100,0.1,5940.0,Wholesale,Small Business
+10626,2025-03-20,Ismailia,Grocery,Pasta Pack,6,60,0,360,Online,Consumer
+10627,2025-06-10,Zagazig,Home & Kitchen,Blender,7,1500,0,10500,Online,Small Business
+10628,2025-06-19,Tanta,Beauty,Hair Dryer,8,1100,0,8800,Retail Store,Small Business
+10629,2025-02-25,Alexandria,Home & Kitchen,Vacuum Cleaner,2,3800,0,7600,Wholesale,Consumer
+10630,2025-05-15,Cairo,Electronics,Wireless Mouse,1,450,0.1,405.0,Wholesale,Small Business
+10631,2025-07-27,Tanta,Grocery,Olive Oil 1L,1,340,0.1,306.0,Wholesale,Small Business
+10632,2025-08-30,Port Said,Home & Kitchen,Cookware Set,7,2400,0,16800,Wholesale,Corporate
+10633,2025-03-10,Zagazig,Beauty,Makeup Kit,2,750,0.05,1425.0,Wholesale,Consumer
+10634,2025-12-06,Alexandria,Home & Kitchen,Vacuum Cleaner,3,3800,0.1,10260.0,Retail Store,Consumer
+10635,2025-04-02,Assiut,Grocery,Pasta Pack,3,60,0.15,153.0,Retail Store,Consumer
+10636,2025-04-23,Zagazig,Beauty,Face Cream,2,320,0,640,Online,Consumer
+10637,2025-12-09,Assiut,Home & Kitchen,Vacuum Cleaner,6,3800,0.05,21660.0,Retail Store,Consumer
+10638,2025-01-21,Tanta,Fashion,T-Shirt,5,350,0.15,1487.5,Wholesale,Small Business
+10639,2025-10-19,Port Said,Home & Kitchen,Coffee Maker,7,1800,0,12600,Wholesale,Consumer
+10640,2025-09-22,Ismailia,Fashion,Jacket,4,1800,0.1,6480.0,Retail Store,Corporate
+10641,2025-09-07,Alexandria,Beauty,Makeup Kit,1,750,0.1,675.0,Retail Store,Consumer
+10642,2025-04-28,Alexandria,Electronics,Smart Watch,5,2200,0,11000,Online,Consumer
+10643,2025-07-05,Zagazig,Grocery,Rice 5kg,4,260,0.05,988.0,Wholesale,Consumer
+10644,2025-09-04,Alexandria,Beauty,Hair Dryer,4,1100,0.1,3960.0,Wholesale,Corporate
+10645,2025-01-12,Port Said,Home & Kitchen,Air Fryer,3,3200,0.1,8640.0,Online,Consumer
+10646,2025-11-19,Alexandria,Grocery,Rice 5kg,3,260,0,780,Retail Store,Consumer
+10647,2025-09-22,Tanta,Beauty,Makeup Kit,1,750,0.15,637.5,Online,Consumer
+10648,2025-08-18,Mansoura,Grocery,Sugar 2kg,8,95,0,760,Retail Store,Small Business
+10649,2025-03-15,Zagazig,Grocery,Olive Oil 1L,5,340,0,1700,Retail Store,Small Business
+10650,2025-10-30,Alexandria,Electronics,Bluetooth Headphones,7,900,0.05,5985.0,Online,Consumer
+10651,2025-04-14,Port Said,Grocery,Pasta Pack,7,60,0,420,Online,Consumer
+10652,2025-09-01,Luxor,Grocery,Pasta Pack,1,60,0.1,54.0,Online,Consumer
+10653,2025-09-04,Ismailia,Home & Kitchen,Vacuum Cleaner,1,3800,0.15,3230.0,Wholesale,Corporate
+10654,2025-07-09,Assiut,Electronics,Smart Watch,7,2200,0,15400,Retail Store,Corporate
+10655,2025-10-29,Tanta,Grocery,Rice 5kg,7,260,0,1820,Retail Store,Consumer
+10656,2025-02-12,Mansoura,Fashion,Backpack,7,650,0,4550,Online,Small Business
+10657,2025-01-04,Cairo,Grocery,Pasta Pack,2,60,0.1,108.0,Retail Store,Small Business
+10658,2025-04-16,Alexandria,Fashion,Jacket,6,1800,0,10800,Retail Store,Small Business
+10659,2025-10-27,Zagazig,Fashion,Sneakers,7,1500,0.1,9450.0,Wholesale,Corporate
+10660,2025-12-15,Luxor,Beauty,Face Cream,7,320,0.1,2016.0,Retail Store,Consumer
+10661,2025-07-09,Tanta,Grocery,Pasta Pack,8,60,0,480,Wholesale,Corporate
+10662,2025-12-28,Mansoura,Beauty,Face Cream,2,320,0.15,544.0,Retail Store,Small Business
+10663,2025-03-24,Luxor,Electronics,Bluetooth Headphones,7,900,0,6300,Wholesale,Small Business
+10664,2025-12-17,Cairo,Electronics,Bluetooth Headphones,7,900,0.15,5355.0,Online,Consumer
+10665,2025-08-30,Tanta,Grocery,Sugar 2kg,2,95,0,190,Online,Corporate
+10666,2025-02-10,Port Said,Grocery,Rice 5kg,7,260,0.05,1729.0,Wholesale,Small Business
+10667,2025-05-27,Assiut,Grocery,Rice 5kg,3,260,0.15,663.0,Retail Store,Consumer
+10668,2025-04-14,Port Said,Grocery,Tea Box,4,120,0,480,Wholesale,Small Business
+10669,2025-12-24,Cairo,Home & Kitchen,Vacuum Cleaner,3,3800,0.15,9690.0,Retail Store,Consumer
+10670,2025-12-02,Ismailia,Electronics,Bluetooth Headphones,2,900,0,1800,Retail Store,Small Business
+10671,2025-07-22,Cairo,Beauty,Makeup Kit,4,750,0.1,2700.0,Wholesale,Small Business
+10672,2025-02-05,Luxor,Electronics,Smart Watch,5,2200,0.15,9350.0,Wholesale,Corporate
+10673,2025-06-27,Ismailia,Fashion,Jeans,4,800,0.05,3040.0,Wholesale,Consumer
+10674,2025-05-14,Giza,Home & Kitchen,Coffee Maker,2,1800,0.1,3240.0,Wholesale,Corporate
+10675,2025-06-24,Port Said,Electronics,Smart Watch,5,2200,0.1,9900.0,Retail Store,Small Business
+10676,2025-08-15,Zagazig,Beauty,Makeup Kit,8,750,0,6000,Retail Store,Small Business
+10677,2025-08-24,Tanta,Grocery,Rice 5kg,8,260,0,2080,Online,Corporate
+10678,2025-11-21,Zagazig,Home & Kitchen,Blender,6,1500,0.05,8550.0,Wholesale,Small Business
+10679,2025-01-05,Ismailia,Fashion,Jeans,5,800,0,4000,Wholesale,Small Business
+10680,2025-06-25,Zagazig,Electronics,Smart Watch,3,2200,0.05,6270.0,Retail Store,Consumer
+10681,2025-10-21,Mansoura,Fashion,Jeans,4,800,0.05,3040.0,Online,Small Business
+10682,2025-05-04,Mansoura,Fashion,Jeans,4,800,0,3200,Wholesale,Corporate
+10683,2025-03-21,Assiut,Electronics,Wireless Mouse,2,450,0.15,765.0,Wholesale,Consumer
+10684,2025-10-05,Zagazig,Electronics,Laptop Stand,6,700,0.1,3780.0,Retail Store,Small Business
+10685,2025-05-21,Mansoura,Beauty,Face Cream,5,320,0.05,1520.0,Wholesale,Consumer
+10686,2025-01-28,Cairo,Grocery,Sugar 2kg,8,95,0.1,684.0,Wholesale,Corporate
+10687,2025-07-21,Luxor,Home & Kitchen,Coffee Maker,2,1800,0.15,3060.0,Retail Store,Corporate
+10688,2025-12-19,Port Said,Electronics,Wireless Mouse,4,450,0.05,1710.0,Online,Corporate
+10689,2025-07-05,Tanta,Grocery,Tea Box,3,120,0.1,324.0,Online,Corporate
+10690,2025-08-30,Assiut,Grocery,Tea Box,6,120,0,720,Retail Store,Consumer
+10691,2025-08-03,Assiut,Fashion,Sneakers,7,1500,0,10500,Online,Small Business
+10692,2025-03-09,Tanta,Grocery,Olive Oil 1L,2,340,0.15,578.0,Online,Small Business
+10693,2025-08-10,Alexandria,Beauty,Face Cream,3,320,0.15,816.0,Retail Store,Consumer
+10694,2025-04-01,Luxor,Beauty,Hair Dryer,3,1100,0.15,2805.0,Wholesale,Small Business
+10695,2025-06-11,Port Said,Beauty,Perfume,5,950,0.1,4275.0,Online,Corporate
+10696,2025-02-20,Assiut,Home & Kitchen,Air Fryer,4,3200,0,12800,Wholesale,Consumer
+10697,2025-08-19,Luxor,Fashion,Sneakers,6,1500,0,9000,Wholesale,Corporate
+10698,2025-06-26,Port Said,Electronics,Laptop Stand,2,700,0,1400,Online,Small Business
+10699,2025-10-22,Zagazig,Grocery,Olive Oil 1L,5,340,0,1700,Wholesale,Small Business
+10700,2025-09-07,Tanta,Beauty,Shampoo,7,180,0.1,1134.0,Retail Store,Small Business
+10701,2025-03-16,Port Said,Home & Kitchen,Cookware Set,7,2400,0.15,14280.0,Wholesale,Corporate
+10702,2025-02-06,Zagazig,Electronics,Bluetooth Headphones,6,900,0,5400,Retail Store,Small Business
+10703,2025-05-30,Assiut,Fashion,Backpack,7,650,0,4550,Retail Store,Small Business
+10704,2025-10-28,Alexandria,Grocery,Sugar 2kg,7,95,0,665,Online,Consumer
+10705,2025-05-01,Ismailia,Fashion,T-Shirt,4,350,0,1400,Online,Consumer
+10706,2025-02-02,Ismailia,Beauty,Makeup Kit,1,750,0,750,Wholesale,Consumer
+10707,2025-02-23,Ismailia,Fashion,Backpack,3,650,0,1950,Retail Store,Consumer
+10708,2025-05-07,Luxor,Fashion,Jacket,3,1800,0,5400,Online,Consumer
+10709,2025-01-18,Luxor,Fashion,Sneakers,8,1500,0.05,11400.0,Retail Store,Small Business
+10710,2025-08-16,Port Said,Home & Kitchen,Vacuum Cleaner,3,3800,0.1,10260.0,Retail Store,Small Business
+10711,2025-11-22,Assiut,Grocery,Sugar 2kg,5,95,0,475,Wholesale,Consumer
+10712,2025-02-15,Tanta,Beauty,Perfume,6,950,0.05,5415.0,Online,Corporate
+10713,2025-01-06,Tanta,Electronics,Smart Watch,3,2200,0,6600,Retail Store,Small Business
+10714,2025-01-05,Ismailia,Beauty,Hair Dryer,5,1100,0,5500,Retail Store,Small Business
+10715,2025-04-29,Ismailia,Electronics,Smart Watch,6,2200,0,13200,Wholesale,Corporate
+10716,2025-07-22,Mansoura,Home & Kitchen,Blender,7,1500,0.05,9975.0,Retail Store,Consumer
+10717,2025-08-05,Luxor,Home & Kitchen,Vacuum Cleaner,5,3800,0,19000,Retail Store,Corporate
+10718,2025-04-07,Giza,Electronics,Bluetooth Headphones,3,900,0,2700,Wholesale,Corporate
+10719,2025-11-13,Zagazig,Beauty,Perfume,8,950,0,7600,Online,Consumer
+10720,2025-01-26,Tanta,Grocery,Rice 5kg,3,260,0,780,Retail Store,Consumer
+10721,2025-08-13,Cairo,Electronics,Bluetooth Headphones,2,900,0,1800,Retail Store,Consumer
+10722,2025-06-25,Assiut,Beauty,Perfume,8,950,0,7600,Wholesale,Consumer
+10723,2025-06-19,Ismailia,Electronics,Bluetooth Headphones,1,900,0,900,Online,Small Business
+10724,2025-08-29,Cairo,Home & Kitchen,Blender,5,1500,0.05,7125.0,Online,Small Business
+10725,2025-05-08,Cairo,Beauty,Hair Dryer,4,1100,0.15,3740.0,Online,Corporate
+10726,2025-02-18,Tanta,Grocery,Olive Oil 1L,8,340,0.05,2584.0,Retail Store,Consumer
+10727,2025-11-19,Assiut,Electronics,Smart Watch,2,2200,0,4400,Wholesale,Corporate
+10728,2025-04-12,Mansoura,Fashion,T-Shirt,4,350,0,1400,Wholesale,Corporate
+10729,2025-06-16,Giza,Electronics,Bluetooth Headphones,5,900,0.1,4050.0,Retail Store,Consumer
+10730,2025-01-05,Port Said,Electronics,Smart Watch,8,2200,0.15,14960.0,Online,Corporate
+10731,2025-02-15,Port Said,Home & Kitchen,Blender,8,1500,0,12000,Retail Store,Small Business
+10732,2025-01-31,Luxor,Electronics,USB-C Charger,3,350,0.15,892.5,Online,Consumer
+10733,2025-09-07,Mansoura,Home & Kitchen,Cookware Set,6,2400,0.05,13680.0,Online,Small Business
+10734,2025-07-13,Assiut,Fashion,Jeans,5,800,0,4000,Wholesale,Corporate
+10735,2025-10-14,Port Said,Fashion,Backpack,8,650,0,5200,Online,Small Business
+10736,2025-06-28,Luxor,Fashion,Jacket,5,1800,0.1,8100.0,Online,Consumer
+10737,2025-09-29,Luxor,Home & Kitchen,Coffee Maker,5,1800,0,9000,Retail Store,Corporate
+10738,2025-01-01,Port Said,Grocery,Sugar 2kg,3,95,0,285,Retail Store,Small Business
+10739,2025-05-03,Luxor,Fashion,T-Shirt,7,350,0,2450,Wholesale,Corporate
+10740,2025-10-10,Ismailia,Home & Kitchen,Vacuum Cleaner,5,3800,0,19000,Wholesale,Corporate
+10741,2025-02-26,Alexandria,Electronics,Smart Watch,2,2200,0,4400,Online,Consumer
+10742,2025-04-14,Cairo,Electronics,Laptop Stand,4,700,0,2800,Wholesale,Small Business
+10743,2025-07-18,Zagazig,Beauty,Makeup Kit,5,750,0,3750,Online,Small Business
+10744,2025-02-06,Assiut,Electronics,Bluetooth Headphones,8,900,0,7200,Wholesale,Consumer
+10745,2025-07-04,Cairo,Grocery,Sugar 2kg,6,95,0.15,484.5,Wholesale,Corporate
+10746,2025-09-28,Mansoura,Electronics,Wireless Mouse,5,450,0,2250,Wholesale,Consumer
+10747,2025-02-21,Mansoura,Home & Kitchen,Vacuum Cleaner,7,3800,0,26600,Wholesale,Small Business
+10748,2025-05-08,Giza,Grocery,Olive Oil 1L,7,340,0.15,2023.0,Wholesale,Small Business
+10749,2025-07-03,Alexandria,Beauty,Hair Dryer,2,1100,0,2200,Wholesale,Corporate
+10750,2025-09-16,Zagazig,Fashion,Jeans,8,800,0,6400,Wholesale,Corporate
+10751,2025-07-10,Mansoura,Beauty,Hair Dryer,6,1100,0.1,5940.0,Wholesale,Small Business
+10752,2025-04-20,Assiut,Beauty,Makeup Kit,5,750,0,3750,Retail Store,Corporate
+10753,2025-01-01,Alexandria,Electronics,USB-C Charger,1,350,0.1,315.0,Retail Store,Consumer
+10754,2025-06-03,Tanta,Home & Kitchen,Blender,6,1500,0,9000,Wholesale,Small Business
+10755,2025-10-12,Cairo,Grocery,Pasta Pack,3,60,0,180,Retail Store,Corporate
+10756,2025-03-21,Mansoura,Home & Kitchen,Cookware Set,6,2400,0.1,12960.0,Online,Corporate
+10757,2025-06-03,Mansoura,Electronics,Smart Watch,7,2200,0.1,13860.0,Wholesale,Consumer
+10758,2025-06-16,Port Said,Beauty,Face Cream,8,320,0.15,2176.0,Online,Small Business
+10759,2025-11-25,Cairo,Fashion,T-Shirt,7,350,0,2450,Retail Store,Corporate
+10760,2025-08-11,Port Said,Beauty,Shampoo,4,180,0.15,612.0,Online,Small Business
+10761,2025-11-20,Cairo,Beauty,Shampoo,5,180,0.1,810.0,Retail Store,Small Business
+10762,2025-10-17,Cairo,Home & Kitchen,Cookware Set,4,2400,0,9600,Wholesale,Small Business
+10763,2025-07-21,Ismailia,Beauty,Makeup Kit,2,750,0,1500,Retail Store,Corporate
+10764,2025-03-17,Port Said,Home & Kitchen,Cookware Set,2,2400,0.05,4560.0,Wholesale,Consumer
+10765,2025-10-08,Luxor,Beauty,Perfume,2,950,0.05,1805.0,Retail Store,Small Business
+10766,2025-03-08,Ismailia,Home & Kitchen,Coffee Maker,4,1800,0.05,6840.0,Wholesale,Small Business
+10767,2025-04-11,Giza,Grocery,Pasta Pack,4,60,0,240,Retail Store,Corporate
+10768,2025-06-15,Ismailia,Grocery,Rice 5kg,2,260,0.15,442.0,Retail Store,Corporate
+10769,2025-06-28,Cairo,Home & Kitchen,Cookware Set,6,2400,0.1,12960.0,Retail Store,Consumer
+10770,2025-06-29,Cairo,Grocery,Sugar 2kg,3,95,0.05,270.75,Online,Consumer
+10771,2025-12-17,Cairo,Fashion,Jeans,2,800,0,1600,Online,Small Business
+10772,2025-03-17,Giza,Fashion,T-Shirt,6,350,0.15,1785.0,Retail Store,Corporate
+10773,2025-08-30,Luxor,Electronics,USB-C Charger,4,350,0.15,1190.0,Online,Consumer
+10774,2025-10-07,Alexandria,Grocery,Tea Box,8,120,0.1,864.0,Wholesale,Small Business
+10775,2025-12-09,Alexandria,Electronics,Laptop Stand,1,700,0,700,Online,Corporate
+10776,2025-04-13,Cairo,Grocery,Tea Box,1,120,0.05,114.0,Online,Corporate
+10777,2025-12-05,Tanta,Fashion,Sneakers,2,1500,0,3000,Wholesale,Corporate
+10778,2025-04-29,Assiut,Beauty,Makeup Kit,2,750,0,1500,Wholesale,Small Business
+10779,2025-02-15,Cairo,Home & Kitchen,Blender,8,1500,0.1,10800.0,Online,Consumer
+10780,2025-09-29,Alexandria,Fashion,Sneakers,8,1500,0.05,11400.0,Online,Corporate
+10781,2025-12-17,Luxor,Fashion,Sneakers,5,1500,0,7500,Retail Store,Consumer
+10782,2025-11-17,Tanta,Fashion,Jacket,1,1800,0.1,1620.0,Online,Consumer
+10783,2025-06-24,Ismailia,Beauty,Face Cream,2,320,0.15,544.0,Wholesale,Small Business
+10784,2025-11-10,Alexandria,Home & Kitchen,Coffee Maker,4,1800,0.1,6480.0,Retail Store,Corporate
+10785,2025-11-06,Alexandria,Fashion,Jacket,3,1800,0,5400,Wholesale,Small Business
+10786,2025-12-17,Luxor,Home & Kitchen,Blender,5,1500,0.15,6375.0,Online,Corporate
+10787,2025-03-16,Luxor,Grocery,Olive Oil 1L,6,340,0,2040,Wholesale,Small Business
+10788,2025-03-02,Cairo,Home & Kitchen,Cookware Set,3,2400,0.15,6120.0,Retail Store,Corporate
+10789,2025-07-30,Mansoura,Fashion,Jacket,5,1800,0,9000,Online,Consumer
+10790,2025-04-05,Port Said,Electronics,Smart Watch,5,2200,0.1,9900.0,Wholesale,Consumer
+10791,2025-11-02,Giza,Home & Kitchen,Blender,1,1500,0,1500,Wholesale,Corporate
+10792,2025-03-10,Zagazig,Grocery,Pasta Pack,8,60,0.15,408.0,Online,Corporate
+10793,2025-09-09,Mansoura,Beauty,Face Cream,3,320,0,960,Online,Corporate
+10794,2025-01-08,Mansoura,Fashion,Jacket,4,1800,0.15,6120.0,Online,Consumer
+10795,2025-04-01,Zagazig,Beauty,Makeup Kit,8,750,0.15,5100.0,Retail Store,Consumer
+10796,2025-08-07,Zagazig,Beauty,Shampoo,7,180,0.15,1071.0,Retail Store,Small Business
+10797,2025-10-20,Giza,Grocery,Pasta Pack,1,60,0.1,54.0,Retail Store,Corporate
+10798,2025-01-22,Cairo,Home & Kitchen,Vacuum Cleaner,7,3800,0.15,22610.0,Wholesale,Corporate
+10799,2025-09-22,Ismailia,Electronics,Bluetooth Headphones,5,900,0.05,4275.0,Retail Store,Corporate
+10800,2025-08-25,Cairo,Home & Kitchen,Coffee Maker,5,1800,0.1,8100.0,Wholesale,Small Business
+10801,2025-03-14,Luxor,Beauty,Hair Dryer,2,1100,0.15,1870.0,Online,Consumer
+10802,2025-10-27,Zagazig,Grocery,Olive Oil 1L,7,340,0.05,2261.0,Retail Store,Consumer
+10803,2025-04-02,Giza,Beauty,Makeup Kit,4,750,0.05,2850.0,Retail Store,Corporate
+10804,2025-12-21,Assiut,Home & Kitchen,Air Fryer,2,3200,0,6400,Wholesale,Corporate
+10805,2025-02-13,Luxor,Grocery,Sugar 2kg,3,95,0.05,270.75,Retail Store,Consumer
+10806,2025-03-29,Alexandria,Fashion,Backpack,3,650,0,1950,Online,Small Business
+10807,2025-01-27,Assiut,Beauty,Perfume,5,950,0.15,4037.5,Retail Store,Small Business
+10808,2025-04-03,Port Said,Electronics,Bluetooth Headphones,4,900,0,3600,Retail Store,Consumer
+10809,2025-08-23,Assiut,Beauty,Hair Dryer,1,1100,0.1,990.0,Online,Consumer
+10810,2025-10-29,Giza,Beauty,Hair Dryer,7,1100,0.05,7315.0,Wholesale,Small Business
+10811,2025-01-04,Luxor,Home & Kitchen,Vacuum Cleaner,5,3800,0.1,17100.0,Online,Consumer
+10812,2025-04-05,Alexandria,Home & Kitchen,Air Fryer,6,3200,0,19200,Online,Small Business
+10813,2025-10-23,Cairo,Grocery,Tea Box,6,120,0,720,Online,Corporate
+10814,2025-04-02,Port Said,Home & Kitchen,Cookware Set,3,2400,0.05,6840.0,Retail Store,Consumer
+10815,2025-02-17,Giza,Fashion,Sneakers,6,1500,0.05,8550.0,Retail Store,Small Business
+10816,2025-02-03,Tanta,Fashion,Jacket,3,1800,0,5400,Retail Store,Small Business
+10817,2025-07-31,Cairo,Grocery,Olive Oil 1L,4,340,0.1,1224.0,Online,Small Business
+10818,2025-11-19,Port Said,Grocery,Rice 5kg,8,260,0.15,1768.0,Wholesale,Corporate
+10819,2025-08-07,Port Said,Grocery,Tea Box,5,120,0.1,540.0,Wholesale,Corporate
+10820,2025-03-08,Assiut,Grocery,Pasta Pack,8,60,0.1,432.0,Retail Store,Consumer
+10821,2025-11-09,Giza,Home & Kitchen,Cookware Set,4,2400,0,9600,Online,Corporate
+10822,2025-11-17,Cairo,Electronics,Bluetooth Headphones,7,900,0.05,5985.0,Retail Store,Corporate
+10823,2025-10-14,Tanta,Home & Kitchen,Air Fryer,4,3200,0.15,10880.0,Retail Store,Consumer
+10824,2025-06-07,Giza,Fashion,Backpack,6,650,0,3900,Wholesale,Corporate
+10825,2025-06-24,Mansoura,Beauty,Makeup Kit,1,750,0,750,Retail Store,Corporate
+10826,2025-12-11,Alexandria,Beauty,Hair Dryer,1,1100,0.15,935.0,Retail Store,Consumer
+10827,2025-11-18,Ismailia,Beauty,Makeup Kit,6,750,0.05,4275.0,Wholesale,Consumer
+10828,2025-09-24,Luxor,Fashion,Backpack,6,650,0.1,3510.0,Online,Consumer
+10829,2025-10-23,Tanta,Fashion,Sneakers,2,1500,0,3000,Online,Corporate
+10830,2025-07-12,Port Said,Grocery,Olive Oil 1L,7,340,0,2380,Online,Corporate
+10831,2025-12-28,Giza,Fashion,T-Shirt,5,350,0.05,1662.5,Retail Store,Consumer
+10832,2025-07-10,Tanta,Beauty,Perfume,4,950,0.1,3420.0,Online,Consumer
+10833,2025-07-11,Luxor,Electronics,Bluetooth Headphones,2,900,0.05,1710.0,Online,Corporate
+10834,2025-09-14,Luxor,Home & Kitchen,Blender,6,1500,0.05,8550.0,Retail Store,Corporate
+10835,2025-03-15,Cairo,Electronics,Smart Watch,3,2200,0,6600,Retail Store,Corporate
+10836,2025-09-25,Port Said,Electronics,Wireless Mouse,5,450,0,2250,Online,Corporate
+10837,2025-08-28,Port Said,Electronics,Wireless Mouse,5,450,0,2250,Retail Store,Small Business
+10838,2025-04-18,Tanta,Fashion,Jeans,4,800,0,3200,Wholesale,Corporate
+10839,2025-08-14,Tanta,Electronics,USB-C Charger,3,350,0,1050,Online,Consumer
+10840,2025-11-15,Luxor,Grocery,Pasta Pack,2,60,0,120,Retail Store,Small Business
+10841,2025-06-13,Mansoura,Fashion,Jeans,5,800,0.1,3600.0,Online,Consumer
+10842,2025-06-09,Alexandria,Grocery,Tea Box,8,120,0,960,Online,Corporate
+10843,2025-12-12,Giza,Electronics,Wireless Mouse,7,450,0,3150,Retail Store,Corporate
+10844,2025-04-02,Zagazig,Grocery,Pasta Pack,8,60,0.1,432.0,Retail Store,Corporate
+10845,2025-04-12,Alexandria,Grocery,Rice 5kg,8,260,0.1,1872.0,Online,Small Business
+10846,2025-08-28,Assiut,Electronics,Laptop Stand,5,700,0.15,2975.0,Retail Store,Consumer
+10847,2025-04-25,Ismailia,Home & Kitchen,Vacuum Cleaner,5,3800,0,19000,Online,Small Business
+10848,2025-12-07,Cairo,Fashion,Sneakers,8,1500,0.05,11400.0,Online,Corporate
+10849,2025-02-27,Tanta,Fashion,Jacket,8,1800,0,14400,Retail Store,Small Business
+10850,2025-10-22,Giza,Home & Kitchen,Vacuum Cleaner,2,3800,0.05,7220.0,Retail Store,Small Business
+10851,2025-11-29,Port Said,Electronics,USB-C Charger,8,350,0.05,2660.0,Retail Store,Consumer
+10852,2025-11-14,Ismailia,Home & Kitchen,Vacuum Cleaner,3,3800,0.05,10830.0,Online,Corporate
+10853,2025-04-17,Zagazig,Grocery,Sugar 2kg,7,95,0.1,598.5,Wholesale,Small Business
+10854,2025-05-01,Port Said,Home & Kitchen,Air Fryer,8,3200,0,25600,Wholesale,Corporate
+10855,2025-06-16,Tanta,Grocery,Rice 5kg,8,260,0,2080,Retail Store,Consumer
+10856,2025-11-03,Assiut,Electronics,Smart Watch,7,2200,0,15400,Wholesale,Small Business
+10857,2025-02-01,Cairo,Electronics,Bluetooth Headphones,3,900,0.1,2430.0,Online,Small Business
+10858,2025-03-18,Port Said,Beauty,Makeup Kit,5,750,0.05,3562.5,Wholesale,Corporate
+10859,2025-04-11,Tanta,Home & Kitchen,Cookware Set,5,2400,0.1,10800.0,Retail Store,Small Business
+10860,2025-06-26,Luxor,Electronics,Smart Watch,1,2200,0.1,1980.0,Retail Store,Consumer
+10861,2025-05-31,Luxor,Electronics,USB-C Charger,1,350,0,350,Retail Store,Consumer
+10862,2025-05-25,Port Said,Electronics,Bluetooth Headphones,7,900,0.15,5355.0,Retail Store,Small Business
+10863,2025-06-12,Luxor,Beauty,Hair Dryer,7,1100,0.05,7315.0,Online,Small Business
+10864,2025-03-30,Ismailia,Beauty,Face Cream,4,320,0.1,1152.0,Retail Store,Corporate
+10865,2025-03-20,Giza,Fashion,Jeans,3,800,0,2400,Wholesale,Consumer
+10866,2025-03-15,Alexandria,Beauty,Hair Dryer,3,1100,0,3300,Wholesale,Corporate
+10867,2025-08-22,Luxor,Grocery,Sugar 2kg,3,95,0.05,270.75,Retail Store,Small Business
+10868,2025-08-19,Ismailia,Beauty,Perfume,4,950,0,3800,Wholesale,Consumer
+10869,2025-10-23,Luxor,Beauty,Face Cream,5,320,0.05,1520.0,Wholesale,Corporate
+10870,2025-01-18,Zagazig,Electronics,Smart Watch,8,2200,0.15,14960.0,Online,Small Business
+10871,2025-09-04,Luxor,Electronics,Bluetooth Headphones,5,900,0.05,4275.0,Online,Small Business
+10872,2025-11-09,Giza,Electronics,Bluetooth Headphones,8,900,0.15,6120.0,Wholesale,Small Business
+10873,2025-10-04,Luxor,Grocery,Tea Box,1,120,0,120,Online,Corporate
+10874,2025-08-21,Zagazig,Grocery,Sugar 2kg,6,95,0.05,541.5,Retail Store,Corporate
+10875,2025-03-27,Port Said,Electronics,Smart Watch,5,2200,0.15,9350.0,Retail Store,Consumer
+10876,2025-11-19,Cairo,Beauty,Makeup Kit,3,750,0.1,2025.0,Wholesale,Corporate
+10877,2025-11-16,Alexandria,Electronics,USB-C Charger,8,350,0,2800,Wholesale,Consumer
+10878,2025-05-23,Tanta,Fashion,Jeans,5,800,0,4000,Online,Small Business
+10879,2025-02-27,Assiut,Grocery,Olive Oil 1L,3,340,0.15,867.0,Retail Store,Consumer
+10880,2025-05-14,Cairo,Home & Kitchen,Coffee Maker,3,1800,0.1,4860.0,Retail Store,Consumer
+10881,2025-03-16,Ismailia,Grocery,Olive Oil 1L,8,340,0.05,2584.0,Online,Small Business
+10882,2025-08-14,Tanta,Home & Kitchen,Blender,6,1500,0,9000,Online,Consumer
+10883,2025-03-27,Assiut,Beauty,Hair Dryer,8,1100,0,8800,Wholesale,Small Business
+10884,2025-04-30,Alexandria,Beauty,Hair Dryer,8,1100,0,8800,Wholesale,Corporate
+10885,2025-01-07,Zagazig,Fashion,Jacket,7,1800,0.15,10710.0,Wholesale,Small Business
+10886,2025-01-22,Port Said,Electronics,Smart Watch,6,2200,0.05,12540.0,Wholesale,Corporate
+10887,2025-06-21,Port Said,Fashion,Sneakers,2,1500,0,3000,Retail Store,Corporate
+10888,2025-12-12,Zagazig,Home & Kitchen,Vacuum Cleaner,4,3800,0.1,13680.0,Wholesale,Small Business
+10889,2025-04-03,Cairo,Fashion,Backpack,1,650,0.15,552.5,Online,Consumer
+10890,2025-07-30,Assiut,Electronics,Smart Watch,2,2200,0.15,3740.0,Retail Store,Consumer
+10891,2025-05-26,Port Said,Fashion,Jeans,1,800,0,800,Online,Consumer
+10892,2025-11-01,Giza,Home & Kitchen,Vacuum Cleaner,2,3800,0.15,6460.0,Online,Small Business
+10893,2025-03-08,Alexandria,Beauty,Makeup Kit,3,750,0,2250,Retail Store,Corporate
+10894,2025-08-28,Zagazig,Electronics,Laptop Stand,5,700,0.05,3325.0,Retail Store,Consumer
+10895,2025-02-07,Zagazig,Fashion,T-Shirt,7,350,0.05,2327.5,Online,Corporate
+10896,2025-05-16,Mansoura,Home & Kitchen,Coffee Maker,2,1800,0.05,3420.0,Wholesale,Corporate
+10897,2025-04-02,Ismailia,Beauty,Shampoo,3,180,0.1,486.0,Online,Small Business
+10898,2025-11-26,Cairo,Electronics,Laptop Stand,5,700,0,3500,Online,Consumer
+10899,2025-10-20,Alexandria,Fashion,Jacket,1,1800,0.05,1710.0,Wholesale,Small Business
+10900,2025-01-01,Zagazig,Electronics,Laptop Stand,5,700,0,3500,Retail Store,Small Business
+10901,2025-01-02,Ismailia,Grocery,Sugar 2kg,8,95,0.05,722.0,Wholesale,Consumer
+10902,2025-10-04,Assiut,Home & Kitchen,Air Fryer,7,3200,0.15,19040.0,Online,Small Business
+10903,2025-10-02,Cairo,Fashion,Sneakers,5,1500,0.05,7125.0,Wholesale,Small Business
+10904,2025-02-16,Assiut,Fashion,Backpack,6,650,0,3900,Retail Store,Small Business
+10905,2025-04-14,Mansoura,Home & Kitchen,Vacuum Cleaner,1,3800,0.05,3610.0,Retail Store,Small Business
+10906,2025-07-19,Assiut,Electronics,USB-C Charger,8,350,0,2800,Wholesale,Consumer
+10907,2025-03-13,Port Said,Electronics,Bluetooth Headphones,1,900,0.15,765.0,Online,Corporate
+10908,2025-07-19,Luxor,Electronics,Smart Watch,5,2200,0.05,10450.0,Retail Store,Consumer
+10909,2025-01-19,Cairo,Fashion,T-Shirt,6,350,0.15,1785.0,Retail Store,Consumer
+10910,2025-04-19,Port Said,Grocery,Sugar 2kg,3,95,0.15,242.25,Online,Consumer
+10911,2025-01-19,Port Said,Home & Kitchen,Coffee Maker,1,1800,0.05,1710.0,Online,Consumer
+10912,2025-12-26,Cairo,Home & Kitchen,Air Fryer,3,3200,0.15,8160.0,Retail Store,Consumer
+10913,2025-08-22,Giza,Grocery,Olive Oil 1L,2,340,0,680,Retail Store,Small Business
+10914,2025-11-12,Zagazig,Home & Kitchen,Air Fryer,4,3200,0.05,12160.0,Wholesale,Small Business
+10915,2025-07-25,Mansoura,Fashion,T-Shirt,3,350,0,1050,Online,Small Business
+10916,2025-03-30,Alexandria,Fashion,T-Shirt,2,350,0,700,Retail Store,Consumer
+10917,2025-12-23,Mansoura,Fashion,Backpack,3,650,0.05,1852.5,Wholesale,Consumer
+10918,2025-03-10,Cairo,Electronics,Smart Watch,7,2200,0,15400,Retail Store,Consumer
+10919,2025-01-04,Port Said,Electronics,Bluetooth Headphones,2,900,0.15,1530.0,Retail Store,Corporate
+10920,2025-12-22,Tanta,Beauty,Face Cream,4,320,0,1280,Wholesale,Corporate
+10921,2025-07-30,Alexandria,Home & Kitchen,Blender,1,1500,0.1,1350.0,Wholesale,Corporate
+10922,2025-11-10,Cairo,Electronics,USB-C Charger,6,350,0.05,1995.0,Wholesale,Consumer
+10923,2025-04-09,Zagazig,Electronics,Smart Watch,2,2200,0.1,3960.0,Wholesale,Small Business
+10924,2025-04-23,Mansoura,Beauty,Face Cream,5,320,0,1600,Online,Consumer
+10925,2025-12-17,Cairo,Beauty,Hair Dryer,3,1100,0,3300,Online,Small Business
+10926,2025-07-06,Zagazig,Fashion,Jeans,7,800,0,5600,Wholesale,Corporate
+10927,2025-01-23,Cairo,Electronics,Wireless Mouse,3,450,0,1350,Retail Store,Small Business
+10928,2025-03-01,Port Said,Electronics,Bluetooth Headphones,8,900,0.1,6480.0,Retail Store,Corporate
+10929,2025-04-12,Mansoura,Fashion,Jeans,2,800,0,1600,Online,Consumer
+10930,2025-07-31,Assiut,Home & Kitchen,Coffee Maker,4,1800,0,7200,Wholesale,Corporate
+10931,2025-01-28,Assiut,Beauty,Face Cream,4,320,0.1,1152.0,Online,Corporate
+10932,2025-07-11,Zagazig,Home & Kitchen,Coffee Maker,4,1800,0.15,6120.0,Retail Store,Consumer
+10933,2025-06-21,Alexandria,Home & Kitchen,Air Fryer,1,3200,0,3200,Online,Corporate
+10934,2025-08-23,Tanta,Beauty,Face Cream,6,320,0,1920,Wholesale,Consumer
+10935,2025-11-23,Ismailia,Grocery,Olive Oil 1L,4,340,0,1360,Wholesale,Corporate
+10936,2025-04-21,Cairo,Grocery,Sugar 2kg,8,95,0,760,Wholesale,Corporate
+10937,2025-05-07,Mansoura,Home & Kitchen,Cookware Set,7,2400,0.1,15120.0,Wholesale,Consumer
+10938,2025-10-21,Assiut,Electronics,Laptop Stand,1,700,0,700,Wholesale,Small Business
+10939,2025-01-18,Giza,Beauty,Makeup Kit,7,750,0.05,4987.5,Retail Store,Corporate
+10940,2025-05-04,Ismailia,Electronics,Smart Watch,1,2200,0.15,1870.0,Online,Consumer
+10941,2025-07-03,Assiut,Fashion,Jeans,2,800,0,1600,Wholesale,Corporate
+10942,2025-03-24,Assiut,Beauty,Makeup Kit,1,750,0.05,712.5,Online,Small Business
+10943,2025-07-27,Cairo,Home & Kitchen,Cookware Set,8,2400,0.15,16320.0,Wholesale,Consumer
+10944,2025-07-17,Ismailia,Fashion,Backpack,1,650,0,650,Retail Store,Small Business
+10945,2025-11-10,Giza,Grocery,Pasta Pack,4,60,0.15,204.0,Wholesale,Corporate
+10946,2025-01-29,Ismailia,Grocery,Tea Box,1,120,0,120,Retail Store,Corporate
+10947,2025-11-13,Luxor,Electronics,USB-C Charger,6,350,0,2100,Wholesale,Consumer
+10948,2025-10-15,Luxor,Home & Kitchen,Blender,6,1500,0,9000,Online,Small Business
+10949,2025-09-02,Zagazig,Grocery,Olive Oil 1L,4,340,0,1360,Retail Store,Small Business
+10950,2025-12-15,Zagazig,Beauty,Perfume,1,950,0,950,Retail Store,Corporate
+10951,2025-09-06,Luxor,Grocery,Pasta Pack,2,60,0.05,114.0,Wholesale,Small Business
+10952,2025-05-30,Giza,Beauty,Makeup Kit,6,750,0.15,3825.0,Online,Corporate
+10953,2025-02-14,Giza,Electronics,Laptop Stand,3,700,0,2100,Online,Consumer
+10954,2025-05-22,Mansoura,Electronics,Bluetooth Headphones,8,900,0,7200,Wholesale,Small Business
+10955,2025-01-12,Zagazig,Fashion,Jacket,3,1800,0.05,5130.0,Retail Store,Corporate
+10956,2025-11-27,Cairo,Electronics,USB-C Charger,4,350,0,1400,Online,Small Business
+10957,2025-11-27,Zagazig,Fashion,Jacket,6,1800,0.15,9180.0,Retail Store,Small Business
+10958,2025-12-07,Tanta,Grocery,Pasta Pack,8,60,0.05,456.0,Wholesale,Consumer
+10959,2025-06-06,Zagazig,Home & Kitchen,Cookware Set,4,2400,0.05,9120.0,Retail Store,Consumer
+10960,2025-03-17,Port Said,Fashion,Sneakers,8,1500,0,12000,Online,Small Business
+10961,2025-10-02,Alexandria,Fashion,Jeans,3,800,0.15,2040.0,Online,Consumer
+10962,2025-03-01,Tanta,Electronics,USB-C Charger,3,350,0.05,997.5,Retail Store,Consumer
+10963,2025-04-16,Alexandria,Grocery,Rice 5kg,6,260,0,1560,Retail Store,Corporate
+10964,2025-10-04,Cairo,Home & Kitchen,Vacuum Cleaner,5,3800,0,19000,Retail Store,Corporate
+10965,2025-03-16,Luxor,Beauty,Perfume,3,950,0,2850,Wholesale,Corporate
+10966,2025-11-28,Alexandria,Fashion,Jacket,5,1800,0.1,8100.0,Wholesale,Small Business
+10967,2025-08-15,Alexandria,Fashion,T-Shirt,8,350,0,2800,Wholesale,Small Business
+10968,2025-03-01,Mansoura,Fashion,T-Shirt,7,350,0.1,2205.0,Retail Store,Corporate
+10969,2025-02-17,Luxor,Fashion,T-Shirt,4,350,0.1,1260.0,Online,Corporate
+10970,2025-04-11,Giza,Electronics,Wireless Mouse,8,450,0.15,3060.0,Wholesale,Corporate
+10971,2025-04-10,Zagazig,Beauty,Perfume,1,950,0.15,807.5,Retail Store,Consumer
+10972,2025-08-07,Tanta,Fashion,Jacket,6,1800,0,10800,Retail Store,Corporate
+10973,2025-06-07,Assiut,Beauty,Makeup Kit,2,750,0,1500,Wholesale,Corporate
+10974,2025-08-15,Ismailia,Fashion,Jeans,7,800,0.15,4760.0,Online,Small Business
+10975,2025-11-03,Assiut,Electronics,Bluetooth Headphones,4,900,0,3600,Wholesale,Corporate
+10976,2025-02-03,Ismailia,Grocery,Sugar 2kg,2,95,0,190,Wholesale,Corporate
+10977,2025-08-01,Port Said,Home & Kitchen,Vacuum Cleaner,8,3800,0.15,25840.0,Online,Consumer
+10978,2025-04-06,Tanta,Beauty,Perfume,8,950,0,7600,Wholesale,Corporate
+10979,2025-09-10,Cairo,Grocery,Sugar 2kg,4,95,0,380,Online,Corporate
+10980,2025-06-03,Alexandria,Beauty,Shampoo,5,180,0.05,855.0,Retail Store,Small Business
+10981,2025-11-27,Assiut,Home & Kitchen,Air Fryer,2,3200,0,6400,Online,Small Business
+10982,2025-07-05,Assiut,Grocery,Sugar 2kg,7,95,0,665,Wholesale,Consumer
+10983,2025-07-11,Alexandria,Grocery,Pasta Pack,1,60,0,60,Wholesale,Consumer
+10984,2025-03-16,Alexandria,Fashion,Jacket,3,1800,0,5400,Online,Corporate
+10985,2025-07-04,Tanta,Beauty,Perfume,1,950,0,950,Wholesale,Small Business
+10986,2025-02-09,Port Said,Grocery,Olive Oil 1L,3,340,0,1020,Online,Small Business
+10987,2025-06-15,Zagazig,Fashion,Sneakers,5,1500,0.15,6375.0,Online,Small Business
+10988,2025-10-24,Luxor,Fashion,Jeans,1,800,0,800,Retail Store,Corporate
+10989,2025-09-06,Mansoura,Beauty,Perfume,3,950,0,2850,Online,Small Business
+10990,2025-04-24,Assiut,Home & Kitchen,Vacuum Cleaner,2,3800,0.05,7220.0,Online,Consumer
+10991,2025-03-09,Zagazig,Electronics,Laptop Stand,6,700,0,4200,Online,Corporate
+10992,2025-11-02,Tanta,Grocery,Tea Box,3,120,0.15,306.0,Online,Small Business
+10993,2025-03-02,Mansoura,Home & Kitchen,Blender,3,1500,0.15,3825.0,Retail Store,Consumer
+10994,2025-04-18,Giza,Home & Kitchen,Air Fryer,7,3200,0.15,19040.0,Online,Consumer
+10995,2025-09-05,Cairo,Beauty,Shampoo,4,180,0,720,Wholesale,Small Business
+10996,2025-10-31,Cairo,Electronics,Laptop Stand,2,700,0,1400,Online,Corporate
+10997,2025-12-08,Mansoura,Electronics,Wireless Mouse,2,450,0.1,810.0,Wholesale,Consumer
+10998,2025-04-05,Tanta,Fashion,T-Shirt,2,350,0,700,Wholesale,Corporate
+10999,2025-06-30,Port Said,Home & Kitchen,Vacuum Cleaner,4,3800,0.1,13680.0,Online,Consumer
+11000,2025-10-24,Mansoura,Electronics,Smart Watch,4,2200,0.15,7480.0,Retail Store,Consumer
+11001,2025-10-03,Assiut,Electronics,Wireless Mouse,4,450,0.1,1620.0,Retail Store,Small Business
+11002,2025-10-29,Zagazig,Home & Kitchen,Coffee Maker,2,1800,0,3600,Retail Store,Corporate
+11003,2025-04-20,Zagazig,Grocery,Olive Oil 1L,7,340,0,2380,Online,Corporate
+11004,2025-02-26,Tanta,Grocery,Olive Oil 1L,8,340,0,2720,Wholesale,Small Business
+11005,2025-01-21,Ismailia,Electronics,USB-C Charger,8,350,0,2800,Retail Store,Corporate
+11006,2025-11-04,Ismailia,Fashion,Jacket,4,1800,0.1,6480.0,Retail Store,Corporate
+11007,2025-04-07,Cairo,Electronics,Laptop Stand,6,700,0,4200,Wholesale,Corporate
+11008,2025-12-11,Giza,Electronics,Laptop Stand,8,700,0.1,5040.0,Online,Consumer
+11009,2025-07-22,Alexandria,Beauty,Makeup Kit,2,750,0.15,1275.0,Online,Corporate
+11010,2025-04-12,Mansoura,Fashion,Jeans,7,800,0,5600,Retail Store,Small Business
+11011,2025-09-13,Ismailia,Fashion,Backpack,5,650,0.15,2762.5,Retail Store,Corporate
+11012,2025-12-08,Tanta,Grocery,Sugar 2kg,8,95,0.1,684.0,Online,Corporate
+11013,2025-02-25,Mansoura,Electronics,USB-C Charger,8,350,0.05,2660.0,Wholesale,Consumer
+11014,2025-01-16,Cairo,Electronics,Wireless Mouse,2,450,0.05,855.0,Online,Corporate
+11015,2025-11-06,Port Said,Fashion,Jeans,5,800,0.1,3600.0,Online,Consumer
+11016,2025-12-05,Tanta,Grocery,Sugar 2kg,8,95,0,760,Wholesale,Corporate
+11017,2025-09-09,Luxor,Grocery,Tea Box,6,120,0.1,648.0,Online,Consumer
+11018,2025-08-09,Ismailia,Electronics,Laptop Stand,8,700,0,5600,Retail Store,Corporate
+11019,2025-01-19,Alexandria,Electronics,Bluetooth Headphones,5,900,0.15,3825.0,Retail Store,Corporate
+11020,2025-03-10,Port Said,Fashion,Jacket,8,1800,0,14400,Wholesale,Corporate
+11021,2025-12-04,Luxor,Grocery,Pasta Pack,8,60,0.05,456.0,Online,Small Business
+11022,2025-01-29,Ismailia,Beauty,Perfume,8,950,0.1,6840.0,Wholesale,Small Business
+11023,2025-06-30,Port Said,Fashion,Sneakers,1,1500,0,1500,Online,Consumer
+11024,2025-07-07,Zagazig,Fashion,Backpack,1,650,0.15,552.5,Retail Store,Consumer
+11025,2025-08-08,Cairo,Fashion,Sneakers,7,1500,0,10500,Wholesale,Consumer
+11026,2025-05-07,Giza,Home & Kitchen,Cookware Set,2,2400,0.15,4080.0,Retail Store,Consumer
+11027,2025-06-22,Assiut,Home & Kitchen,Air Fryer,6,3200,0,19200,Wholesale,Corporate
+11028,2025-10-18,Assiut,Grocery,Sugar 2kg,5,95,0,475,Wholesale,Consumer
+11029,2025-06-12,Port Said,Beauty,Makeup Kit,7,750,0,5250,Online,Corporate
+11030,2025-02-21,Zagazig,Home & Kitchen,Cookware Set,8,2400,0.1,17280.0,Online,Small Business
+11031,2025-06-03,Giza,Fashion,Jacket,4,1800,0.05,6840.0,Wholesale,Consumer
+11032,2025-05-28,Ismailia,Fashion,T-Shirt,5,350,0.1,1575.0,Online,Small Business
+11033,2025-02-17,Giza,Grocery,Rice 5kg,6,260,0,1560,Wholesale,Small Business
+11034,2025-09-01,Tanta,Beauty,Face Cream,6,320,0,1920,Wholesale,Corporate
+11035,2025-08-10,Ismailia,Grocery,Tea Box,4,120,0.05,456.0,Retail Store,Small Business
+11036,2025-09-21,Luxor,Beauty,Makeup Kit,3,750,0,2250,Online,Small Business
+11037,2025-09-13,Luxor,Home & Kitchen,Coffee Maker,5,1800,0.15,7650.0,Wholesale,Corporate
+11038,2025-10-17,Assiut,Electronics,Smart Watch,4,2200,0,8800,Online,Consumer
+11039,2025-03-19,Giza,Fashion,Jacket,7,1800,0,12600,Wholesale,Consumer
+11040,2025-07-31,Port Said,Fashion,Sneakers,3,1500,0,4500,Online,Corporate
+11041,2025-05-03,Mansoura,Electronics,Bluetooth Headphones,4,900,0,3600,Retail Store,Corporate
+11042,2025-09-06,Cairo,Grocery,Sugar 2kg,7,95,0.15,565.25,Online,Consumer
+11043,2025-05-20,Luxor,Home & Kitchen,Air Fryer,5,3200,0,16000,Online,Small Business
+11044,2025-01-22,Zagazig,Beauty,Shampoo,1,180,0,180,Wholesale,Corporate
+11045,2025-02-02,Alexandria,Beauty,Perfume,2,950,0.05,1805.0,Online,Consumer
+11046,2025-10-20,Giza,Grocery,Rice 5kg,5,260,0.05,1235.0,Online,Small Business
+11047,2025-03-04,Mansoura,Fashion,Sneakers,7,1500,0.15,8925.0,Retail Store,Consumer
+11048,2025-03-15,Assiut,Electronics,Bluetooth Headphones,4,900,0,3600,Retail Store,Corporate
+11049,2025-10-29,Giza,Electronics,Laptop Stand,6,700,0.15,3570.0,Retail Store,Small Business
+11050,2025-08-05,Zagazig,Beauty,Face Cream,5,320,0,1600,Retail Store,Small Business
+11051,2025-07-08,Cairo,Fashion,T-Shirt,1,350,0.15,297.5,Wholesale,Small Business
+11052,2025-05-03,Zagazig,Fashion,Backpack,7,650,0,4550,Wholesale,Consumer
+11053,2025-10-01,Ismailia,Home & Kitchen,Coffee Maker,7,1800,0,12600,Retail Store,Corporate
+11054,2025-02-16,Assiut,Home & Kitchen,Cookware Set,4,2400,0,9600,Wholesale,Corporate
+11055,2025-11-26,Assiut,Beauty,Shampoo,5,180,0,900,Retail Store,Small Business
+11056,2025-07-31,Tanta,Fashion,Jacket,2,1800,0,3600,Wholesale,Consumer
+11057,2025-06-30,Cairo,Beauty,Makeup Kit,6,750,0.05,4275.0,Online,Small Business
+11058,2025-11-25,Ismailia,Home & Kitchen,Coffee Maker,3,1800,0,5400,Online,Small Business
+11059,2025-06-06,Alexandria,Fashion,Backpack,2,650,0,1300,Online,Small Business
+11060,2025-11-29,Assiut,Home & Kitchen,Vacuum Cleaner,7,3800,0,26600,Retail Store,Small Business
+11061,2025-03-10,Mansoura,Fashion,Jeans,6,800,0,4800,Online,Corporate
+11062,2025-07-08,Mansoura,Home & Kitchen,Coffee Maker,7,1800,0.1,11340.0,Online,Consumer
+11063,2025-10-13,Mansoura,Grocery,Olive Oil 1L,2,340,0.05,646.0,Retail Store,Small Business
+11064,2025-03-28,Tanta,Electronics,Laptop Stand,7,700,0.1,4410.0,Online,Consumer
+11065,2025-07-08,Luxor,Home & Kitchen,Vacuum Cleaner,2,3800,0,7600,Retail Store,Corporate
+11066,2025-12-11,Mansoura,Beauty,Shampoo,4,180,0.15,612.0,Online,Corporate
+11067,2025-05-28,Mansoura,Beauty,Hair Dryer,3,1100,0.05,3135.0,Wholesale,Consumer
+11068,2025-05-25,Alexandria,Home & Kitchen,Coffee Maker,3,1800,0.05,5130.0,Online,Corporate
+11069,2025-05-15,Zagazig,Home & Kitchen,Vacuum Cleaner,8,3800,0,30400,Wholesale,Small Business
+11070,2025-11-28,Alexandria,Beauty,Shampoo,1,180,0.05,171.0,Retail Store,Small Business
+11071,2025-07-23,Port Said,Home & Kitchen,Coffee Maker,7,1800,0.15,10710.0,Retail Store,Consumer
+11072,2025-02-18,Mansoura,Grocery,Rice 5kg,1,260,0,260,Retail Store,Corporate
+11073,2025-11-07,Luxor,Grocery,Rice 5kg,1,260,0,260,Wholesale,Corporate
+11074,2025-06-04,Cairo,Beauty,Perfume,3,950,0.1,2565.0,Wholesale,Consumer
+11075,2025-05-14,Assiut,Home & Kitchen,Vacuum Cleaner,8,3800,0,30400,Online,Consumer
+11076,2025-06-12,Giza,Grocery,Sugar 2kg,3,95,0,285,Retail Store,Consumer
+11077,2025-03-07,Tanta,Beauty,Perfume,6,950,0.05,5415.0,Retail Store,Small Business
+11078,2025-05-16,Zagazig,Grocery,Tea Box,7,120,0,840,Wholesale,Corporate
+11079,2025-03-19,Alexandria,Grocery,Sugar 2kg,1,95,0,95,Online,Consumer
+11080,2025-04-04,Assiut,Electronics,Laptop Stand,5,700,0,3500,Retail Store,Consumer
+11081,2025-09-11,Luxor,Electronics,Laptop Stand,6,700,0.15,3570.0,Retail Store,Corporate
+11082,2025-09-10,Giza,Electronics,Bluetooth Headphones,2,900,0,1800,Online,Corporate
+11083,2025-04-03,Port Said,Home & Kitchen,Vacuum Cleaner,5,3800,0.1,17100.0,Online,Small Business
+11084,2025-01-03,Giza,Grocery,Pasta Pack,3,60,0.05,171.0,Online,Corporate
+11085,2025-12-13,Giza,Electronics,USB-C Charger,1,350,0,350,Retail Store,Corporate
+11086,2025-10-30,Giza,Electronics,USB-C Charger,3,350,0,1050,Retail Store,Small Business
+11087,2025-12-04,Cairo,Beauty,Hair Dryer,5,1100,0.1,4950.0,Retail Store,Consumer
+11088,2025-12-02,Port Said,Grocery,Sugar 2kg,6,95,0.15,484.5,Online,Consumer
+11089,2025-01-25,Giza,Fashion,Sneakers,1,1500,0.15,1275.0,Wholesale,Small Business
+11090,2025-07-15,Mansoura,Electronics,Laptop Stand,5,700,0,3500,Retail Store,Consumer
+11091,2025-01-11,Tanta,Home & Kitchen,Blender,7,1500,0.05,9975.0,Wholesale,Small Business
+11092,2025-03-20,Tanta,Electronics,USB-C Charger,8,350,0.05,2660.0,Wholesale,Small Business
+11093,2025-03-09,Mansoura,Fashion,T-Shirt,6,350,0.1,1890.0,Retail Store,Corporate
+11094,2025-07-18,Ismailia,Beauty,Perfume,7,950,0,6650,Retail Store,Small Business
+11095,2025-04-06,Luxor,Beauty,Hair Dryer,2,1100,0,2200,Retail Store,Corporate
+11096,2025-12-13,Luxor,Home & Kitchen,Blender,8,1500,0.1,10800.0,Online,Corporate
+11097,2025-08-28,Alexandria,Beauty,Shampoo,8,180,0,1440,Online,Small Business
+11098,2025-06-03,Port Said,Home & Kitchen,Vacuum Cleaner,7,3800,0,26600,Online,Small Business
+11099,2025-02-09,Ismailia,Electronics,Smart Watch,2,2200,0.1,3960.0,Retail Store,Consumer
+11100,2025-08-26,Port Said,Grocery,Tea Box,6,120,0,720,Online,Small Business
+11101,2025-01-09,Ismailia,Electronics,Laptop Stand,3,700,0,2100,Online,Consumer
+11102,2025-08-02,Assiut,Fashion,Sneakers,8,1500,0.15,10200.0,Wholesale,Corporate
+11103,2025-06-24,Port Said,Home & Kitchen,Blender,3,1500,0,4500,Retail Store,Small Business
+11104,2025-02-24,Ismailia,Beauty,Makeup Kit,1,750,0,750,Online,Consumer
+11105,2025-03-29,Port Said,Beauty,Hair Dryer,7,1100,0.15,6545.0,Wholesale,Corporate
+11106,2025-06-05,Ismailia,Grocery,Pasta Pack,6,60,0.15,306.0,Retail Store,Consumer
+11107,2025-03-06,Cairo,Home & Kitchen,Air Fryer,4,3200,0,12800,Wholesale,Consumer
+11108,2025-01-14,Mansoura,Home & Kitchen,Coffee Maker,3,1800,0.15,4590.0,Retail Store,Small Business
+11109,2025-10-03,Alexandria,Home & Kitchen,Air Fryer,5,3200,0.05,15200.0,Retail Store,Corporate
+11110,2025-01-12,Assiut,Electronics,Bluetooth Headphones,3,900,0.15,2295.0,Retail Store,Corporate
+11111,2025-01-11,Tanta,Beauty,Makeup Kit,4,750,0,3000,Wholesale,Corporate
+11112,2025-01-27,Ismailia,Fashion,T-Shirt,2,350,0.15,595.0,Retail Store,Corporate
+11113,2025-10-24,Assiut,Grocery,Pasta Pack,5,60,0,300,Retail Store,Corporate
+11114,2025-09-20,Cairo,Grocery,Pasta Pack,8,60,0,480,Wholesale,Consumer
+11115,2025-08-05,Ismailia,Grocery,Tea Box,2,120,0,240,Retail Store,Consumer
+11116,2025-09-11,Ismailia,Grocery,Tea Box,8,120,0.15,816.0,Online,Consumer
+11117,2025-05-28,Mansoura,Home & Kitchen,Coffee Maker,6,1800,0.05,10260.0,Wholesale,Consumer
+11118,2025-10-28,Tanta,Fashion,Backpack,8,650,0,5200,Wholesale,Small Business
+11119,2025-07-19,Port Said,Beauty,Perfume,8,950,0,7600,Online,Corporate
+11120,2025-12-20,Mansoura,Electronics,Laptop Stand,3,700,0,2100,Online,Small Business
+11121,2025-09-09,Mansoura,Electronics,Laptop Stand,8,700,0,5600,Online,Small Business
+11122,2025-01-25,Alexandria,Electronics,USB-C Charger,5,350,0,1750,Online,Small Business
+11123,2025-01-17,Port Said,Electronics,USB-C Charger,7,350,0,2450,Online,Consumer
+11124,2025-10-15,Zagazig,Home & Kitchen,Coffee Maker,5,1800,0,9000,Online,Small Business
+11125,2025-05-17,Cairo,Home & Kitchen,Vacuum Cleaner,2,3800,0.15,6460.0,Retail Store,Corporate
+11126,2025-02-26,Cairo,Electronics,Smart Watch,2,2200,0.1,3960.0,Wholesale,Consumer
+11127,2025-03-27,Tanta,Electronics,Bluetooth Headphones,6,900,0,5400,Wholesale,Corporate
+11128,2025-09-17,Zagazig,Beauty,Shampoo,3,180,0.15,459.0,Retail Store,Consumer
+11129,2025-03-04,Mansoura,Home & Kitchen,Coffee Maker,7,1800,0,12600,Retail Store,Corporate
+11130,2025-05-27,Zagazig,Grocery,Olive Oil 1L,2,340,0,680,Wholesale,Corporate
+11131,2025-07-04,Alexandria,Home & Kitchen,Blender,7,1500,0,10500,Retail Store,Corporate
+11132,2025-07-29,Assiut,Beauty,Makeup Kit,6,750,0,4500,Online,Consumer
+11133,2025-09-22,Ismailia,Electronics,Wireless Mouse,6,450,0,2700,Online,Corporate
+11134,2025-02-01,Cairo,Beauty,Shampoo,3,180,0.1,486.0,Wholesale,Small Business
+11135,2025-12-05,Luxor,Grocery,Tea Box,7,120,0.05,798.0,Retail Store,Small Business
+11136,2025-06-10,Port Said,Fashion,T-Shirt,5,350,0.1,1575.0,Online,Small Business
+11137,2025-07-26,Zagazig,Beauty,Face Cream,8,320,0.15,2176.0,Wholesale,Corporate
+11138,2025-04-12,Zagazig,Fashion,T-Shirt,1,350,0.1,315.0,Retail Store,Small Business
+11139,2025-03-06,Giza,Grocery,Pasta Pack,5,60,0,300,Wholesale,Small Business
+11140,2025-06-09,Cairo,Grocery,Tea Box,3,120,0,360,Wholesale,Small Business
+11141,2025-05-13,Giza,Home & Kitchen,Cookware Set,7,2400,0.1,15120.0,Wholesale,Consumer
+11142,2025-07-10,Cairo,Fashion,Backpack,6,650,0,3900,Wholesale,Consumer
+11143,2025-08-18,Zagazig,Fashion,Backpack,1,650,0.05,617.5,Online,Small Business
+11144,2025-10-25,Tanta,Grocery,Pasta Pack,4,60,0,240,Retail Store,Small Business
+11145,2025-10-21,Zagazig,Home & Kitchen,Coffee Maker,4,1800,0,7200,Wholesale,Small Business
+11146,2025-04-09,Ismailia,Fashion,Jacket,2,1800,0,3600,Retail Store,Consumer
+11147,2025-02-17,Mansoura,Electronics,Laptop Stand,3,700,0.05,1995.0,Retail Store,Consumer
+11148,2025-07-09,Port Said,Grocery,Sugar 2kg,7,95,0,665,Retail Store,Small Business
+11149,2025-08-05,Alexandria,Beauty,Hair Dryer,7,1100,0,7700,Wholesale,Consumer
+11150,2025-09-06,Mansoura,Beauty,Face Cream,2,320,0.15,544.0,Retail Store,Corporate
+11151,2025-01-17,Port Said,Home & Kitchen,Vacuum Cleaner,6,3800,0,22800,Retail Store,Consumer
+11152,2025-03-03,Luxor,Fashion,Backpack,5,650,0,3250,Online,Consumer
+11153,2025-07-10,Assiut,Fashion,Sneakers,5,1500,0,7500,Online,Consumer
+11154,2025-03-14,Tanta,Grocery,Sugar 2kg,1,95,0,95,Online,Consumer
+11155,2025-09-08,Cairo,Electronics,Wireless Mouse,6,450,0,2700,Retail Store,Corporate
+11156,2025-10-21,Ismailia,Fashion,Backpack,8,650,0,5200,Retail Store,Small Business
+11157,2025-11-07,Assiut,Home & Kitchen,Blender,8,1500,0.05,11400.0,Online,Small Business
+11158,2025-06-16,Mansoura,Electronics,Smart Watch,7,2200,0.05,14630.0,Retail Store,Corporate
+11159,2025-10-04,Giza,Electronics,Laptop Stand,5,700,0.15,2975.0,Online,Small Business
+11160,2025-01-13,Luxor,Grocery,Tea Box,2,120,0.15,204.0,Online,Consumer
+11161,2025-11-13,Luxor,Grocery,Pasta Pack,1,60,0.1,54.0,Online,Corporate
+11162,2025-09-15,Tanta,Electronics,Wireless Mouse,3,450,0,1350,Online,Consumer
+11163,2025-12-28,Port Said,Grocery,Sugar 2kg,2,95,0.1,171.0,Retail Store,Corporate
+11164,2025-10-29,Ismailia,Electronics,Laptop Stand,1,700,0,700,Online,Corporate
+11165,2025-01-13,Giza,Grocery,Tea Box,7,120,0,840,Online,Consumer
+11166,2025-10-05,Tanta,Home & Kitchen,Cookware Set,3,2400,0,7200,Online,Consumer
+11167,2025-06-07,Zagazig,Beauty,Face Cream,1,320,0.1,288.0,Online,Consumer
+11168,2025-01-30,Alexandria,Fashion,Jacket,2,1800,0,3600,Retail Store,Corporate
+11169,2025-05-13,Mansoura,Beauty,Shampoo,1,180,0,180,Wholesale,Small Business
+11170,2025-05-02,Tanta,Beauty,Makeup Kit,7,750,0,5250,Online,Corporate
+11171,2025-08-26,Cairo,Grocery,Sugar 2kg,2,95,0.05,180.5,Retail Store,Small Business
+11172,2025-04-30,Luxor,Electronics,USB-C Charger,2,350,0,700,Wholesale,Consumer
+11173,2025-06-05,Luxor,Grocery,Sugar 2kg,8,95,0,760,Online,Consumer
+11174,2025-07-11,Ismailia,Grocery,Olive Oil 1L,4,340,0.1,1224.0,Wholesale,Corporate
+11175,2025-01-22,Alexandria,Electronics,Laptop Stand,5,700,0.15,2975.0,Online,Consumer
+11176,2025-09-04,Ismailia,Fashion,Backpack,5,650,0.15,2762.5,Retail Store,Small Business
+11177,2025-04-19,Alexandria,Grocery,Pasta Pack,5,60,0,300,Wholesale,Small Business
+11178,2025-10-16,Giza,Electronics,USB-C Charger,2,350,0.05,665.0,Online,Small Business
+11179,2025-10-12,Luxor,Fashion,Jacket,4,1800,0.1,6480.0,Retail Store,Small Business
+11180,2025-06-25,Zagazig,Fashion,Jacket,5,1800,0,9000,Retail Store,Consumer
+11181,2025-08-24,Alexandria,Grocery,Tea Box,1,120,0.15,102.0,Wholesale,Consumer
+11182,2025-11-08,Alexandria,Beauty,Shampoo,1,180,0.15,153.0,Retail Store,Small Business
+11183,2025-12-23,Giza,Beauty,Hair Dryer,2,1100,0.15,1870.0,Wholesale,Consumer
+11184,2025-12-10,Port Said,Beauty,Shampoo,6,180,0.05,1026.0,Retail Store,Corporate
+11185,2025-04-01,Mansoura,Electronics,Wireless Mouse,8,450,0,3600,Retail Store,Consumer
+11186,2025-04-24,Giza,Electronics,USB-C Charger,6,350,0,2100,Wholesale,Small Business
+11187,2025-06-05,Cairo,Home & Kitchen,Blender,8,1500,0,12000,Retail Store,Corporate
+11188,2025-12-27,Ismailia,Grocery,Olive Oil 1L,1,340,0,340,Online,Corporate
+11189,2025-10-19,Mansoura,Grocery,Sugar 2kg,3,95,0.1,256.5,Wholesale,Small Business
+11190,2025-10-17,Port Said,Grocery,Pasta Pack,3,60,0,180,Online,Small Business
+11191,2025-02-03,Tanta,Home & Kitchen,Cookware Set,4,2400,0.1,8640.0,Online,Small Business
+11192,2025-01-12,Luxor,Grocery,Pasta Pack,5,60,0.15,255.0,Retail Store,Consumer
+11193,2025-08-07,Tanta,Electronics,USB-C Charger,7,350,0.05,2327.5,Online,Small Business
+11194,2025-09-23,Cairo,Beauty,Hair Dryer,6,1100,0.1,5940.0,Wholesale,Consumer
+11195,2025-01-25,Cairo,Fashion,Jacket,8,1800,0,14400,Retail Store,Consumer
+11196,2025-06-21,Mansoura,Electronics,Smart Watch,1,2200,0.15,1870.0,Wholesale,Corporate
+11197,2025-02-08,Tanta,Home & Kitchen,Blender,3,1500,0,4500,Online,Small Business
+11198,2025-11-17,Cairo,Electronics,Wireless Mouse,8,450,0.05,3420.0,Wholesale,Small Business
+11199,2025-06-21,Mansoura,Fashion,Jeans,2,800,0.05,1520.0,Retail Store,Consumer
